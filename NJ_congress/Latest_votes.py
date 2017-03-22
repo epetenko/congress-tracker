@@ -4,8 +4,8 @@ import json
 
 #Part 1. Retrieve latest list of House and Senate members
 
-NJ_house_members = requests.get("https://api.propublica.org/congress/v1/members/house/NJ/current.json",headers={"X-API-KEY":"nMQfwKZ1yz3mcfOh1nYWp3l0BTrM8HgH8GM6kqml"})
-NJ_senate_members = requests.get("https://api.propublica.org/congress/v1/members/senate/NJ/current.json", headers={"X-API-KEY":"nMQfwKZ1yz3mcfOh1nYWp3l0BTrM8HgH8GM6kqml"})
+NJ_house_members = requests.get("https://api.propublica.org/congress/v1/members/house/NJ/current.json",headers={"X-API-KEY":"NICE-TRY-HACKERS"})
+NJ_senate_members = requests.get("https://api.propublica.org/congress/v1/members/senate/NJ/current.json", headers={"X-API-KEY":"NICE-TRY-HACKERS"})
 
 
 file = open("data/NJ_house_members.json", "w+")
@@ -32,7 +32,7 @@ house_ids_list = house_ids()
 
 # 2b. Get biographical info
 for n in house_ids_list:
-    detailed_list = requests.get("https://api.propublica.org/congress/v1/members/"+n+".json",headers={"X-API-KEY":"nMQfwKZ1yz3mcfOh1nYWp3l0BTrM8HgH8GM6kqml"})
+    detailed_list = requests.get("https://api.propublica.org/congress/v1/members/"+n+".json",headers={"X-API-KEY":"NICE-TRY-HACKERS"})
     with open("data/House/%s.json" %n, "w+") as file:
 		file.write(detailed_list.text)     
     # file = open("data/House/%s.json" %n, "w")
@@ -41,14 +41,14 @@ for n in house_ids_list:
 
 #2c. Get latest votes
 for n in house_ids_list:
-    member_votes = requests.get("https://api.propublica.org/congress/v1/members/"+n+"/votes.json",headers={"X-API-KEY":"nMQfwKZ1yz3mcfOh1nYWp3l0BTrM8HgH8GM6kqml"})
+    member_votes = requests.get("https://api.propublica.org/congress/v1/members/"+n+"/votes.json",headers={"X-API-KEY":"NICE-TRY-HACKERS"})
     votes_json = member_votes.json()
     #trying to get the bill urls
     for l in range(0, len(votes_json["results"][0]["votes"])):
         if "bill" in votes_json["results"][0]["votes"][l]:
             if "bill_uri" in votes_json["results"][0]["votes"][l]["bill"]:
                 bill_url = votes_json["results"][0]["votes"][l]["bill"]["bill_uri"]
-                bill_pull = requests.get(bill_url, headers={"X-API-KEY":"nMQfwKZ1yz3mcfOh1nYWp3l0BTrM8HgH8GM6kqml"})
+                bill_pull = requests.get(bill_url, headers={"X-API-KEY":"NICE-TRY-HACKERS"})
                 bill_json = bill_pull.json()
                 votes_json["results"][0]["votes"][l]["bill"]["gov-url"] = bill_json["results"][0]['congressdotgov_url']
     revised_bill = []
@@ -78,7 +78,7 @@ def sen_ids():
 senate_ids_list = sen_ids()
 
 for n in senate_ids_list:
-    detailed_list = requests.get("https://api.propublica.org/congress/v1/members/"+n+".json",headers={"X-API-KEY":"nMQfwKZ1yz3mcfOh1nYWp3l0BTrM8HgH8GM6kqml"})
+    detailed_list = requests.get("https://api.propublica.org/congress/v1/members/"+n+".json",headers={"X-API-KEY":"NICE-TRY-HACKERS"})
     with open("data/Senate/%s.json" %n, "w+") as file:
 		file.write(detailed_list.text)    
     # file = open("data/Senate/%s.json" %n, "w")
@@ -86,7 +86,7 @@ for n in senate_ids_list:
     # file.close()
 
 for n in senate_ids_list:
-    member_votes = requests.get("https://api.propublica.org/congress/v1/members/"+n+"/votes.json",headers={"X-API-KEY":"nMQfwKZ1yz3mcfOh1nYWp3l0BTrM8HgH8GM6kqml"})
+    member_votes = requests.get("https://api.propublica.org/congress/v1/members/"+n+"/votes.json",headers={"X-API-KEY":"NICE-TRY-HACKERS"})
     votes_json = member_votes.json()
     revised_bill = []
     # create_vote_filter(votes_json, n)
@@ -118,7 +118,7 @@ lastday = today - datetime.timedelta(days=30)
 
 #3b. pull request for latest votes
 votes_house_url = votes_house_root + str(last_month) +"-" + str(lastday.strftime("%d")) + "/" + str(today.strftime("%Y-%m-%d")) +  ".json"
-NJ_house_votes = requests.get(votes_house_url,headers={"X-API-KEY":"nMQfwKZ1yz3mcfOh1nYWp3l0BTrM8HgH8GM6kqml"})
+NJ_house_votes = requests.get(votes_house_url,headers={"X-API-KEY":"NICE-TRY-HACKERS"})
 
 with open("data/Recent_house_votes.json", "w+") as file:
 	file.write(NJ_house_votes.content)
@@ -126,7 +126,7 @@ with open("data/Recent_house_votes.json", "w+") as file:
 
 #3b. same thing for senate
 votes_senate_url = votes_senate_root + str(last_month) +"-" + str(lastday.strftime("%d")) + "/" + str(today.strftime("%Y-%m-%d")) +  ".json"
-NJ_senate_votes = requests.get(votes_senate_url,headers={"X-API-KEY":"nMQfwKZ1yz3mcfOh1nYWp3l0BTrM8HgH8GM6kqml"})
+NJ_senate_votes = requests.get(votes_senate_url,headers={"X-API-KEY":"NICE-TRY-HACKERS"})
 
 with open("data/Recent_senate_votes.json", "w+") as file:
 	file.write(NJ_senate_votes.content)
