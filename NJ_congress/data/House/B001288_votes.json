@@ -1,0 +1,1625 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "B001288",
+         "total_votes": "100",
+         "offset": "0",
+         "votes": [
+           {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "85",
+           "bill": {
+           },
+           "description": "Seema Verma, of Indiana, to be Administrator of the Centers for Medicare and Medicaid Services",
+           "question": "On the Nomination",
+           "date": "2017-03-09",
+           "time": "13:46:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "84",
+           "bill": {
+             "number": "H.J.Res.57",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres57.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965.",
+             "latest_action": "Message on Senate action sent to the House."
+           },
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State ...",
+           "question": "On the Joint Resolution",
+           "date": "2017-03-09",
+           "time": "12:02:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "83",
+           "bill": {
+             "number": "H.J.Res.58",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres58.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues.",
+             "latest_action": "Message on Senate action sent to the House."
+           },
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues.",
+           "question": "On the Joint Resolution",
+           "date": "2017-03-08",
+           "time": "14:30:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "82",
+           "bill": {
+             "number": "H.J.Res.44",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres44.json",
+             "title": "Disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976.",
+             "latest_action": "Message on Senate action sent to the House."
+           },
+           "description": "A joint resolution disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend ...",
+           "question": "On the Joint Resolution",
+           "date": "2017-03-07",
+           "time": "15:59:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "81",
+           "bill": {
+             "number": "H.J.Res.37",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres37.json",
+             "title": "Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.",
+             "latest_action": "Message on Senate action sent to the House."
+           },
+           "description": "A joint resolution disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.",
+           "question": "On the Joint Resolution",
+           "date": "2017-03-06",
+           "time": "18:02:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "80",
+           "bill": {
+             "number": "H.J.Res.37",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres37.json",
+             "title": "Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.",
+             "latest_action": "Message on Senate action sent to the House."
+           },
+           "description": "A joint resolution disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.",
+           "question": "On the Motion to Proceed",
+           "date": "2017-03-02",
+           "time": "14:12:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "79",
+           "bill": {
+           },
+           "description": "James Richard Perry, of Texas, to be Secretary of Energy",
+           "question": "On the Nomination",
+           "date": "2017-03-02",
+           "time": "13:46:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "78",
+           "bill": {
+           },
+           "description": "James Richard Perry, of Texas, to be Secretary of Energy",
+           "question": "On the Cloture Motion",
+           "date": "2017-03-02",
+           "time": "10:34:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "77",
+           "bill": {
+           },
+           "description": "Benjamin S. Carson, Sr., of Florida, to be Secretary of Housing and Urban Development",
+           "question": "On the Nomination",
+           "date": "2017-03-02",
+           "time": "10:02:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "76",
+           "bill": {
+           },
+           "description": "Benjamin S. Carson, Sr., of Florida, to be Secretary of Housing and Urban Development",
+           "question": "On the Cloture Motion",
+           "date": "2017-03-01",
+           "time": "11:06:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "75",
+           "bill": {
+           },
+           "description": "Ryan Zinke, of Montana, to be Secretary of the Interior",
+           "question": "On the Nomination",
+           "date": "2017-03-01",
+           "time": "10:33:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "74",
+           "bill": {
+           },
+           "description": "Ryan Zinke, of Montana, to be Secretary of the Interior",
+           "question": "On the Cloture Motion",
+           "date": "2017-02-28",
+           "time": "19:32:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "73",
+           "bill": {
+           },
+           "description": "Wilbur L. Ross, Jr., of Florida, to be Secretary of Commerce",
+           "question": "On the Nomination",
+           "date": "2017-02-28",
+           "time": "19:01:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "72",
+           "bill": {
+           },
+           "description": "Wilbur L. Ross, Jr., of Florida, to be Secretary of Commerce",
+           "question": "On the Cloture Motion",
+           "date": "2017-02-17",
+           "time": "13:17:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "71",
+           "bill": {
+           },
+           "description": "Scott Pruitt, of Oklahoma, to be Administrator of the Environmental Protection Agency",
+           "question": "On the Nomination",
+           "date": "2017-02-17",
+           "time": "13:03:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "70",
+           "bill": {
+           },
+           "description": "Scott Pruitt, of Oklahoma, to be Administrator of the Environmental Protection Agency",
+           "question": "On the Motion",
+           "date": "2017-02-17",
+           "time": "12:35:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "69",
+           "bill": {
+           },
+           "description": "Scott Pruitt, of Oklahoma, to be Administrator of the Environmental Protection Agency",
+           "question": "On the Cloture Motion",
+           "date": "2017-02-16",
+           "time": "11:16:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "68",
+           "bill": {
+           },
+           "description": "Mick Mulvaney, of South Carolina, to be Director of the Office of Management and Budget",
+           "question": "On the Nomination",
+           "date": "2017-02-16",
+           "time": "10:42:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "67",
+           "bill": {
+           },
+           "description": "Mick Mulvaney, of South Carolina, to be Director of the Office of Management and Budget",
+           "question": "On the Cloture Motion",
+           "date": "2017-02-15",
+           "time": "11:04:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "66",
+           "bill": {
+             "number": "H.J.Res.40",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres40.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007.",
+             "latest_action": "Became Public Law No: 115-8."
+           },
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the ...",
+           "question": "On the Joint Resolution",
+           "date": "2017-02-15",
+           "time": "10:31:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "65",
+           "bill": {
+           },
+           "description": "Linda E. McMahon, of Connecticut, to be Administrator of the Small Business Administration",
+           "question": "On the Nomination",
+           "date": "2017-02-14",
+           "time": "11:01:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "64",
+           "bill": {
+           },
+           "description": "David J. Shulkin, of Pennsylvania, to be Secretary of Veterans Affairs",
+           "question": "On the Nomination",
+           "date": "2017-02-13",
+           "time": "19:39:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "63",
+           "bill": {
+           },
+           "description": "Steven T. Mnuchin, of California, to be Secretary of the Treasury",
+           "question": "On the Nomination",
+           "date": "2017-02-13",
+           "time": "19:04:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "62",
+           "bill": {
+           },
+           "description": "Steven T. Mnuchin, of California, to be Secretary of the Treasury",
+           "question": "On the Cloture Motion",
+           "date": "2017-02-10",
+           "time": "02:17:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "61",
+           "bill": {
+           },
+           "description": "Thomas Price, of Georgia, to be Secretary of Health and Human Services",
+           "question": "On the Nomination",
+           "date": "2017-02-10",
+           "time": "01:46:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "60",
+           "bill": {
+           },
+           "description": "Thomas Price, of Georgia, to be Secretary of Health and Human Services",
+           "question": "On the Cloture Motion",
+           "date": "2017-02-08",
+           "time": "19:25:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "59",
+           "bill": {
+           },
+           "description": "Jeff Sessions, of Alabama, to be Attorney General",
+           "question": "On the Nomination",
+           "date": "2017-02-08",
+           "time": "18:58:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "58",
+           "bill": {
+           },
+           "description": "Jeff Sessions, of Alabama, to be Attorney General",
+           "question": "On the Motion",
+           "date": "2017-02-07",
+           "time": "21:06:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "57",
+           "bill": {
+           },
+           "description": "Jeff Sessions, of Alabama, to be Attorney General",
+           "question": "On the Decision of the Chair",
+           "date": "2017-02-07",
+           "time": "20:43:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "56",
+           "bill": {
+           },
+           "description": "Jeff Sessions, of Alabama, to be Attorney General",
+           "question": "On the Motion for Attendance",
+           "date": "2017-02-07",
+           "time": "20:01:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "55",
+           "bill": {
+           },
+           "description": "Jeff Sessions, of Alabama, to be Attorney General",
+           "question": "On the Cloture Motion",
+           "date": "2017-02-07",
+           "time": "12:31:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "54",
+           "bill": {
+           },
+           "description": "Elisabeth Prince DeVos, of Michigan, to be Secretary of Education",
+           "question": "On the Nomination",
+           "date": "2017-02-07",
+           "time": "12:02:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "53",
+           "bill": {
+           },
+           "description": "Elisabeth Prince DeVos, of Michigan, to be Secretary of Education",
+           "question": "On the Motion for Attendance",
+           "date": "2017-02-06",
+           "time": "18:04:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "52",
+           "bill": {
+           },
+           "description": "Elisabeth Prince DeVos, of Michigan, to be Secretary of Education",
+           "question": "On the Cloture Motion",
+           "date": "2017-02-03",
+           "time": "06:56:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "51",
+           "bill": {
+             "number": "H.J.Res.41",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres41.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to &quot;Disclosure of Payments by Resource Extraction Issuers&quot;.",
+             "latest_action": "Became Public Law No: 115-4."
+           },
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to &quot;Disclosure of ...",
+           "question": "On the Joint Resolution",
+           "date": "2017-02-03",
+           "time": "06:34:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "50",
+           "bill": {
+             "number": "H.J.Res.41",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres41.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to &quot;Disclosure of Payments by Resource Extraction Issuers&quot;.",
+             "latest_action": "Became Public Law No: 115-4."
+           },
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to &quot;Disclosure of ...",
+           "question": "On the Motion to Proceed",
+           "date": "2017-02-02",
+           "time": "17:13:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "49",
+           "bill": {
+           },
+           "description": "Steven T. Mnuchin, of California, to be Secretary of the Treasury",
+           "question": "On the Motion to Proceed",
+           "date": "2017-02-02",
+           "time": "16:53:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "48",
+           "bill": {
+           },
+           "description": "Steven T. Mnuchin, of California, to be Secretary of the Treasury",
+           "question": "On the Motion to Proceed",
+           "date": "2017-02-02",
+           "time": "16:32:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "47",
+           "bill": {
+           },
+           "description": "Thomas Price, of Georgia, to be Secretary of Health and Human Services",
+           "question": "On the Motion to Proceed",
+           "date": "2017-02-02",
+           "time": "16:08:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "46",
+           "bill": {
+           },
+           "description": "Thomas Price, of Georgia, to be Secretary of Health and Human Services",
+           "question": "On the Motion to Proceed",
+           "date": "2017-02-02",
+           "time": "15:46:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "45",
+           "bill": {
+           },
+           "description": "Jeff Sessions, of Alabama, to be Attorney General",
+           "question": "On the Motion to Proceed",
+           "date": "2017-02-02",
+           "time": "15:27:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "44",
+           "bill": {
+           },
+           "description": "Jeff Sessions, of Alabama, to be Attorney General",
+           "question": "On the Motion to Proceed",
+           "date": "2017-02-02",
+           "time": "15:06:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "43",
+           "bill": {
+             "number": "H.J.Res.38",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres38.json",
+             "title": "Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.",
+             "latest_action": "Became Public Law No: 115-5."
+           },
+           "description": "A joint resolution disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.",
+           "question": "On Passage of the Bill",
+           "date": "2017-02-02",
+           "time": "14:37:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "42",
+           "bill": {
+             "number": "H.J.Res.38",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres38.json",
+             "title": "Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.",
+             "latest_action": "Became Public Law No: 115-5."
+           },
+           "description": "A joint resolution disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.",
+           "question": "On the Motion to Proceed",
+           "date": "2017-02-01",
+           "time": "18:24:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "41",
+           "bill": {
+           },
+           "description": "Elisabeth Prince DeVos, of Michigan, to be Secretary of Education",
+           "question": "On the Motion to Proceed",
+           "date": "2017-02-01",
+           "time": "17:53:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "40",
+           "bill": {
+           },
+           "description": "Elisabeth Prince DeVos, of Michigan, to be Secretary of Education",
+           "question": "On the Motion to Proceed",
+           "date": "2017-02-01",
+           "time": "16:12:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "39",
+           "bill": {
+           },
+           "description": "Rex W. Tillerson, of Texas, to be Secretary of State",
+           "question": "On the Motion",
+           "date": "2017-02-01",
+           "time": "15:47:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "38",
+           "bill": {
+           },
+           "description": "Rex W. Tillerson, of Texas, to be Secretary of State",
+           "question": "On the Motion to Proceed",
+           "date": "2017-02-01",
+           "time": "15:24:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "37",
+           "bill": {
+           },
+           "description": "Rex W. Tillerson, of Texas, to be Secretary of State",
+           "question": "On the Motion to Table",
+           "date": "2017-02-01",
+           "time": "14:59:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "36",
+           "bill": {
+           },
+           "description": "Rex W. Tillerson, of Texas, to be Secretary of State",
+           "question": "On the Nomination",
+           "date": "2017-02-01",
+           "time": "14:31:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "35",
+           "bill": {
+           },
+           "description": "Elaine L. Chao, of Kentucky, to be Secretary of Transportation",
+           "question": "On the Nomination",
+           "date": "2017-01-31",
+           "time": "12:33:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "34",
+           "bill": {
+           },
+           "description": "Rex W. Tillerson, of Texas, to be Secretary of State",
+           "question": "On the Cloture Motion",
+           "date": "2017-01-30",
+           "time": "17:25:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "33",
+           "bill": {
+           },
+           "description": "Nikki R. Haley, of South Carolina, to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations during her tenure of ...",
+           "question": "On the Nomination",
+           "date": "2017-01-24",
+           "time": "17:31:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "32",
+           "bill": {
+           },
+           "description": "Mike Pompeo, of Kansas, to be Director of the Central Intelligence Agency",
+           "question": "On the Nomination",
+           "date": "2017-01-23",
+           "time": "19:01:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "31",
+           "bill": {
+           },
+           "description": "Mike Pompeo, of Kansas, to be Director of the Central Intelligence Agency",
+           "question": "On the Motion to Proceed",
+           "date": "2017-01-20",
+           "time": "18:16:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "30",
+           "bill": {
+           },
+           "description": "John F. Kelly, of Virginia, to be Secretary of Homeland Security",
+           "question": "On the Nomination",
+           "date": "2017-01-20",
+           "time": "17:57:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "29",
+           "bill": {
+           },
+           "description": "James Mattis, of Washington, to be Secretary of Defense",
+           "question": "On the Nomination",
+           "date": "2017-01-20",
+           "time": "16:55:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "28",
+           "bill": {
+             "number": "H.R.72",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr72.json",
+             "title": "GAO Access and Oversight Act of 2017",
+             "latest_action": "Became Public Law No: 115-3."
+           },
+           "description": "GAO Access and Oversight Act of 2017",
+           "question": "On Passage of the Bill",
+           "date": "2017-01-17",
+           "time": "16:43:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "27",
+           "bill": {
+             "number": "S.84",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s84.json",
+             "title": "A bill to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.",
+             "latest_action": "Became Public Law No: 115-2."
+           },
+           "description": "A bill to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned ...",
+           "question": "On Passage of the Bill",
+           "date": "2017-01-12",
+           "time": "14:47:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "26",
+           "bill": {
+             "number": "S.Con.Res.3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+           "question": "On the Concurrent Resolution",
+           "date": "2017-01-12",
+           "time": "01:05:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "25",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To create a point of order against legislation that would undermine the historic coverage gains the United States has made in children&#39;s health, which have resulted in the lowest uninsured ...",
+           "question": "On the Motion",
+           "date": "2017-01-12",
+           "time": "00:48:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "24",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing and replacing Obamacare, which has increased health care costs, raised taxes on middle-class families, reduced access to ...",
+           "question": "On the Motion",
+           "date": "2017-01-12",
+           "time": "00:31:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "23",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To create a point of order against legislation that makes women sick again.",
+           "question": "On the Motion",
+           "date": "2017-01-12",
+           "time": "00:14:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "22",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To establish a deficit-neutral reserve fund relating to strengthening Social Security or health care for women, which may include strengthening community health centers, and repealing and replacing Obamacare.",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "23:56:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "21",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To create a point of order against legislation that does not lower drug prices.",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "23:26:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "20",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To establish a deficit-neutral reserve fund relating to lower prescription drug prices for Americans by importing drugs from Canada.",
+           "question": "On the Amendment",
+           "date": "2017-01-11",
+           "time": "23:06:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "19",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To strengthen Social Security and Medicare without raiding them to pay for new government programs, like Obamacare, that have failed Americans by increasing premiums and reducing affordable health care options, ...",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "22:45:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "18",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To create a point of order against legislation that would eliminate or reduce Federal funding to States under the Medicaid expansion.",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "22:26:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "17",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To establish a deficit-neutral reserve fund relating to reforming housing and Medicaid without prioritizing able-bodied adults over the disabled or raiding the Medicare Trust Funds to pay for new government ...",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "22:07:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "16",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing and replacing Obamacare, which has increased health care costs, raised taxes on middle-class families, reduced access to ...",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "21:44:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "15",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To create a point of order against legislation that would make people with disabilities and chronic conditions sick again.",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "21:17:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "14",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To create a point of order against legislation that would limit veterans&#39; ability to choose VA health care.",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "20:56:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "13",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To establish a deficit-neutral reserve fund relating to enhancing health care and housing for veterans and their dependents by repealing Obamacare, facilitating medical facility leases, and prohibiting the Secretary of ...",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "20:35:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "12",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To create a point of order against legislation that makes young people sick again.",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "20:17:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "11",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To establish a deficit-neutral reserve fund relating to strengthening Social Security and repealing Obamacare, which has increased health care costs, raised taxes on middle-class families, reduced access to high quality ...",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "19:56:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "10",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To create a point of order against legislation that would harm rural hospitals and health care providers.",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "19:37:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "9",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To establish a deficit-neutral reserve fund relating to rural health and repealing and replacing Obamacare.",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "19:12:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "8",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To create a point of order against legislation that would reduce health insurance access and affordability for individuals based on their occupation.",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "18:52:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "7",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To create a point of order against legislation that would repeal health reforms that closed the prescription drug coverage gap under Medicare.",
+           "question": "On the Motion",
+           "date": "2017-01-11",
+           "time": "18:21:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "6",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To prevent the Senate from breaking Donald Trump&#39;s promise that &#39;there will be no cuts to Social Security, Medicare, and Medicaid&#39;.",
+           "question": "On the Motion",
+           "date": "2017-01-10",
+           "time": "15:05:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "5",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To strengthen Social Security and Medicare without raiding it to pay for new Government programs, like Obamacare, that have failed Americans by increasing premiums and reducing affordable health care options, ...",
+           "question": "On the Motion",
+           "date": "2017-01-10",
+           "time": "14:33:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "4",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To protect the Medicare and Medicaid programs.",
+           "question": "On the Motion",
+           "date": "2017-01-09",
+           "time": "18:08:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "3",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "In the nature of a substitute.",
+           "question": "On the Amendment",
+           "date": "2017-01-09",
+           "time": "17:33:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "2",
+           "bill": {
+             "number": "S.Con.Res. 3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "To prohibit legislation that makes America sick again.",
+           "question": "On the Motion",
+           "date": "2017-01-05",
+           "time": "14:47:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "1",
+           "bill": {
+             "number": "S.Con.Res.3",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/sconres3.json",
+             "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2017 and setting forth the appropriate budgetary levels for fiscal years 2018 through 2026.",
+           "question": "On the Motion to Proceed",
+           "date": "2017-01-04",
+           "time": "12:38:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "163",
+           "bill": {
+             "number": "S.612",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/s612.json",
+             "title": "WIIN Act",
+             "latest_action": "Became Public Law No: 114-322."
+           },
+           "description": "WIIN Act",
+           "question": "On the Motion",
+           "date": "2016-12-10",
+           "time": "00:57:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "162",
+           "bill": {
+             "number": "S.612",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/s612.json",
+             "title": "WIIN Act",
+             "latest_action": "Became Public Law No: 114-322."
+           },
+           "description": "WIIN Act",
+           "question": "On the Cloture Motion",
+           "date": "2016-12-10",
+           "time": "00:35:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "161",
+           "bill": {
+             "number": "H.R.2028",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/hr2028.json",
+             "title": "Further Continuing and Security Assistance Appropriations Act, 2017",
+             "latest_action": "Became Public Law No: 114-254."
+           },
+           "description": "Further Continuing and Security Assistance Appropriations Act, 2017",
+           "question": "On the Motion",
+           "date": "2016-12-09",
+           "time": "22:53:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "160",
+           "bill": {
+             "number": "H.R.2028",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/hr2028.json",
+             "title": "Further Continuing and Security Assistance Appropriations Act, 2017",
+             "latest_action": "Became Public Law No: 114-254."
+           },
+           "description": "Further Continuing and Security Assistance Appropriations Act, 2017",
+           "question": "On the Cloture Motion",
+           "date": "2016-12-09",
+           "time": "22:00:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "159",
+           "bill": {
+             "number": "S.2943",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/s2943.json",
+             "title": "National Defense Authorization Act for Fiscal Year 2017",
+             "latest_action": "Signed by President."
+           },
+           "description": "National Defense Authorization Act for Fiscal Year 2017",
+           "question": "On the Conference Report",
+           "date": "2016-12-08",
+           "time": "12:31:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "158",
+           "bill": {
+             "number": "S.2943",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/s2943.json",
+             "title": "National Defense Authorization Act for Fiscal Year 2017",
+             "latest_action": "Signed by President."
+           },
+           "description": "National Defense Authorization Act for Fiscal Year 2017",
+           "question": "On the Cloture Motion",
+           "date": "2016-12-07",
+           "time": "14:29:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "157",
+           "bill": {
+             "number": "H.R.34",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/hr34.json",
+             "title": "21st Century Cures Act",
+             "latest_action": "Became Public Law No: 114-255."
+           },
+           "description": "21st Century Cures Act",
+           "question": "On the Motion",
+           "date": "2016-12-07",
+           "time": "14:00:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "156",
+           "bill": {
+             "number": "H.R.34",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/hr34.json",
+             "title": "21st Century Cures Act",
+             "latest_action": "Became Public Law No: 114-255."
+           },
+           "description": "21st Century Cures Act",
+           "question": "On the Cloture Motion",
+           "date": "2016-12-05",
+           "time": "17:44:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "155",
+           "bill": {
+             "number": "H.R.6297",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/hr6297.json",
+             "title": "Iran Sanctions Extension Act",
+             "latest_action": "Became Public Law No: 114-277."
+           },
+           "description": "Iran Sanctions Extension Act",
+           "question": "On Passage of the Bill",
+           "date": "2016-12-01",
+           "time": "13:47:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "154",
+           "bill": {
+             "number": "S.2873",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/s2873.json",
+             "title": "ECHO Act",
+             "latest_action": "Became Public Law No: 114-270."
+           },
+           "description": "ECHO Act",
+           "question": "On Passage of the Bill",
+           "date": "2016-11-29",
+           "time": "23:31:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "153",
+           "bill": {
+             "number": "S.3110",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/s3110.json",
+             "title": "American Energy and Conservation Act of 2016",
+             "latest_action": "Cloture on the motion to proceed to consideration of the measure not invoked in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 153. (consideration: CR S6436-6437; text: CR S6436)"
+           },
+           "description": "American Energy and Conservation Act of 2016",
+           "question": "On the Cloture Motion",
+           "date": "2016-11-17",
+           "time": "12:05:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "152",
+           "bill": {
+             "number": "H.R.4511",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/hr4511.json",
+             "title": "Gold Star Families Voices Act",
+             "latest_action": "Became Public Law No: 114-246."
+           },
+           "description": "Gold Star Families Voices Act",
+           "question": "On Passage of the Bill",
+           "date": "2016-11-15",
+           "time": "17:31:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "151",
+           "bill": {
+             "number": "H.R.5325",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/hr5325.json",
+             "title": "Continuing Appropriations and Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2017, and Zika Response and Preparedness Act",
+             "latest_action": "Became Public Law No: 114-223."
+           },
+           "description": "A bill making appropriations for the Legislative Branch for the fiscal year ending September 30, 2017, and for other purposes.",
+           "question": "On Passage of the Bill",
+           "date": "2016-09-28",
+           "time": "15:00:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "150",
+           "bill": {
+             "number": "H.R.5325",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/hr5325.json",
+             "title": "Continuing Appropriations and Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2017, and Zika Response and Preparedness Act",
+             "latest_action": "Became Public Law No: 114-223."
+           },
+           "description": "A bill making appropriations for the Legislative Branch for the fiscal year ending September 30, 2017, and for other purposes.",
+           "question": "On the Cloture Motion",
+           "date": "2016-09-28",
+           "time": "14:39:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "B001288",
+           "chamber": "Senate",
+           "congress": "114",
+           "session": "2",
+           "roll_call": "149",
+           "bill": {
+             "number": "H.R. 5325",
+             "bill_uri": "https://api.propublica.org/congress/v1/114/bills/hr5325.json",
+             "title": "Continuing Appropriations and Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2017, and Zika Response and Preparedness Act",
+             "latest_action": "Became Public Law No: 114-223."
+           },
+           "description": "In the nature of a substitute.",
+           "question": "On the Cloture Motion",
+           "date": "2016-09-28",
+           "time": "14:09:00",
+           "position": "No"
+         }
+       ]
+    }
+  ]
+}

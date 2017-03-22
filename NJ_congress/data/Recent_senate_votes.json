@@ -1,0 +1,1019 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "start_date": "2017-02-20",
+      "end_date": "2017-03-22",
+      "num_results": "20",
+      "votes": [
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "92",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00092.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00092",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/92.json",
+                      "bill": {
+           "number": "H.J.RES.69",
+           "bill_id": "hjres69-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hjres69.json",
+           "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to 'Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska'.",
+           "latest_action": "Received in the Senate."
+           },
+           "question": "On the Joint Resolution",
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to \"Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska\".",
+           "vote_type": "1/2",
+           "date": "2017-03-21",
+           "time": "18:11:00",
+           "result": "Joint Resolution Passed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "69",
+           "document_title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to &quot;Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska&quot;.",
+           "democratic": {
+             "yes": "0",
+             "no": "46",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "52",
+             "no": "47",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "91",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00091.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00091",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/91.json",
+                      "nomination": {
+             "nomination_id": "PN86-115",
+             "number": "PN86",
+             "name": "Charles R. Breyer",
+             "agency": "United States Sentencing Commission"
+           },
+           "question": "On the Nomination",
+           "description": "Danny C. Reeves, of Kentucky, to be a Member of the United States Sentencing Commission for a term expiring October 31, 2019; and Charles R. Breyer, of California, to be a Member of the United States Sentencing Commission for a term expiring October 31, 2021",
+           "vote_type": "1/2",
+           "date": "2017-03-21",
+           "time": "12:02:00",
+           "result": "Nomination Confirmed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "86",
+           "document_title": "Charles R. Breyer, of California, to be a Member of the United States Sentencing Commission for a term expiring October 31, 2021",
+           "democratic": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "98",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "90",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00090.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00090",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/90.json",
+                      "nomination": {
+             "nomination_id": "PN87-115",
+             "number": "PN87",
+             "name": "Lt. Gen. Herbert R. McMaster Jr.",
+             "agency": "Army"
+           },
+           "question": "On the Nomination",
+           "description": "Lt. Gen. Herbert R. McMaster, Jr., in the Army, to be Lieutenant General",
+           "vote_type": "1/2",
+           "date": "2017-03-15",
+           "time": "14:22:00",
+           "result": "Nomination Confirmed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "37",
+             "no": "9",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "86",
+             "no": "10",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "89",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00089.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00089",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/89.json",
+                      "nomination": {
+             "nomination_id": "PN41-115",
+             "number": "PN41",
+             "name": "Daniel Coats",
+             "agency": "Office of the Director of National Intelligence"
+           },
+           "question": "On the Nomination",
+           "description": "Daniel Coats, of Indiana, to be Director of National Intelligence",
+           "vote_type": "1/2",
+           "date": "2017-03-15",
+           "time": "13:46:00",
+           "result": "Nomination Confirmed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "36",
+             "no": "10",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "1",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "85",
+             "no": "12",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "88",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00088.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00088",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/88.json",
+                      "nomination": {
+             "nomination_id": "PN41-115",
+             "number": "PN41",
+             "name": "Daniel Coats",
+             "agency": "Office of the Director of National Intelligence"
+           },
+           "question": "On the Cloture Motion",
+           "description": "Daniel Coats, of Indiana, to be Director of National Intelligence",
+           "vote_type": "1/2",
+           "date": "2017-03-15",
+           "time": "10:00:00",
+           "result": "Cloture Motion Agreed to",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "37",
+             "no": "9",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "88",
+             "no": "11",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "87",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00087.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00087",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/87.json",
+                      "bill": {
+           "number": "H.J.RES.42",
+           "bill_id": "hjres42-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hjres42.json",
+           "title": "Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.",
+           "latest_action": "Presented to President."
+           },
+           "question": "On the Joint Resolution",
+           "description": "A joint resolution disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.",
+           "vote_type": "1/2",
+           "date": "2017-03-14",
+           "time": "17:49:00",
+           "result": "Joint Resolution Passed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "0",
+             "no": "46",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "51",
+             "no": "48",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "86",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00086.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00086",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/86.json",
+                      "nomination": {
+             "nomination_id": "PN49-115",
+             "number": "PN49",
+             "name": "Seema Verma",
+             "agency": "Department of Health and Human Services"
+           },
+           "question": "On the Nomination",
+           "description": "Seema Verma, of Indiana, to be Administrator of the Centers for Medicare and Medicaid Services",
+           "vote_type": "1/2",
+           "date": "2017-03-13",
+           "time": "17:31:00",
+           "result": "Nomination Confirmed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "3",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "55",
+             "no": "43",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "85",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00085.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00085",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/85.json",
+                      "nomination": {
+             "nomination_id": "PN49-115",
+             "number": "PN49",
+             "name": "Seema Verma",
+             "agency": "Department of Health and Human Services"
+           },
+           "question": "On the Cloture Motion",
+           "description": "Seema Verma, of Indiana, to be Administrator of the Centers for Medicare and Medicaid Services",
+           "vote_type": "1/2",
+           "date": "2017-03-09",
+           "time": "13:46:00",
+           "result": "Cloture Motion Agreed to",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "3",
+             "no": "43",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "54",
+             "no": "44",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "84",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00084.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00084",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/84.json",
+                      "bill": {
+           "number": "H.J.RES.57",
+           "bill_id": "hjres57-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hjres57.json",
+           "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965.",
+           "latest_action": "Presented to President."
+           },
+           "question": "On the Joint Resolution",
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965.",
+           "vote_type": "1/2",
+           "date": "2017-03-09",
+           "time": "12:02:00",
+           "result": "Joint Resolution Passed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "0",
+             "no": "46",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "50",
+             "no": "49",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "83",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00083.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00083",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/83.json",
+                      "bill": {
+           "number": "H.J.RES.58",
+           "bill_id": "hjres58-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hjres58.json",
+           "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues.",
+           "latest_action": "Presented to President."
+           },
+           "question": "On the Joint Resolution",
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues.",
+           "vote_type": "1/2",
+           "date": "2017-03-08",
+           "time": "14:30:00",
+           "result": "Joint Resolution Passed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "7",
+             "no": "39",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "59",
+             "no": "40",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "82",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00082.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00082",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/82.json",
+                      "bill": {
+           "number": "H.J.RES.44",
+           "bill_id": "hjres44-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hjres44.json",
+           "title": "Disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976.",
+           "latest_action": "Presented to President."
+           },
+           "question": "On the Joint Resolution",
+           "description": "A joint resolution disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976.",
+           "vote_type": "1/2",
+           "date": "2017-03-07",
+           "time": "15:59:00",
+           "result": "Joint Resolution Passed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "0",
+             "no": "46",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "51",
+             "no": "48",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "81",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00081.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00081",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/81.json",
+                      "bill": {
+           "number": "H.J.RES.37",
+           "bill_id": "hjres37-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hjres37.json",
+           "title": "Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.",
+           "latest_action": "Presented to President."
+           },
+           "question": "On the Joint Resolution",
+           "description": "A joint resolution disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.",
+           "vote_type": "1/2",
+           "date": "2017-03-06",
+           "time": "18:02:00",
+           "result": "Joint Resolution Passed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "0",
+             "no": "46",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "49",
+             "no": "48",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "80",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00080.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00080",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/80.json",
+                      "bill": {
+           "number": "H.J.RES.37",
+           "bill_id": "hjres37-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hjres37.json",
+           "title": "Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.",
+           "latest_action": "Presented to President."
+           },
+           "question": "On the Motion to Proceed",
+           "description": "A joint resolution disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.",
+           "vote_type": "1/2",
+           "date": "2017-03-02",
+           "time": "14:12:00",
+           "result": "Motion to Proceed Agreed to",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "51",
+             "no": "46",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "79",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00079.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00079",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/79.json",
+                      "nomination": {
+             "nomination_id": "PN36-115",
+             "number": "PN36",
+             "name": "James Richard Perry",
+             "agency": "Department of Energy"
+           },
+           "question": "On the Nomination",
+           "description": "James Richard Perry, of Texas, to be Secretary of Energy",
+           "vote_type": "1/2",
+           "date": "2017-03-02",
+           "time": "13:46:00",
+           "result": "Nomination Confirmed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "10",
+             "no": "36",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "62",
+             "no": "37",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "78",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00078.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00078",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/78.json",
+                      "nomination": {
+             "nomination_id": "PN36-115",
+             "number": "PN36",
+             "name": "James Richard Perry",
+             "agency": "Department of Energy"
+           },
+           "question": "On the Cloture Motion",
+           "description": "James Richard Perry, of Texas, to be Secretary of Energy",
+           "vote_type": "1/2",
+           "date": "2017-03-02",
+           "time": "10:34:00",
+           "result": "Cloture Motion Agreed to",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "10",
+             "no": "36",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "62",
+             "no": "37",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "77",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00077.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00077",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/77.json",
+                      "nomination": {
+             "nomination_id": "PN34-115",
+             "number": "PN34",
+             "name": "Benjamin S. Carson Sr.",
+             "agency": "Department of Housing and Urban Development"
+           },
+           "question": "On the Nomination",
+           "description": "Benjamin S. Carson, Sr., of Florida, to be Secretary of Housing and Urban Development",
+           "vote_type": "1/2",
+           "date": "2017-03-02",
+           "time": "10:02:00",
+           "result": "Nomination Confirmed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "6",
+             "no": "40",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "58",
+             "no": "41",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "76",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00076.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00076",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/76.json",
+                      "nomination": {
+             "nomination_id": "PN34-115",
+             "number": "PN34",
+             "name": "Benjamin S. Carson Sr.",
+             "agency": "Department of Housing and Urban Development"
+           },
+           "question": "On the Cloture Motion",
+           "description": "Benjamin S. Carson, Sr., of Florida, to be Secretary of Housing and Urban Development",
+           "vote_type": "1/2",
+           "date": "2017-03-01",
+           "time": "11:06:00",
+           "result": "Cloture Motion Agreed to",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "10",
+             "no": "36",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "62",
+             "no": "37",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "75",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00075.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00075",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/75.json",
+                      "nomination": {
+             "nomination_id": "PN31-115",
+             "number": "PN31",
+             "name": "Ryan Zinke",
+             "agency": "Department of the Interior"
+           },
+           "question": "On the Nomination",
+           "description": "Ryan Zinke, of Montana, to be Secretary of the Interior",
+           "vote_type": "1/2",
+           "date": "2017-03-01",
+           "time": "10:33:00",
+           "result": "Nomination Confirmed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "16",
+             "no": "30",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "68",
+             "no": "31",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "74",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00074.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00074",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/74.json",
+                      "nomination": {
+             "nomination_id": "PN31-115",
+             "number": "PN31",
+             "name": "Ryan Zinke",
+             "agency": "Department of the Interior"
+           },
+           "question": "On the Cloture Motion",
+           "description": "Ryan Zinke, of Montana, to be Secretary of the Interior",
+           "vote_type": "1/2",
+           "date": "2017-02-28",
+           "time": "19:32:00",
+           "result": "Cloture Motion Agreed to",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "15",
+             "no": "30",
+             "present": "1",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "67",
+             "no": "31",
+             "present": "1",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "73",
+           "source": "http://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00073.xml",
+           "url": "http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=115&session=1&vote=00073",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/senate/sessions/1/votes/73.json",
+                      "nomination": {
+             "nomination_id": "PN32-115",
+             "number": "PN32",
+             "name": "Wilbur L. Ross Jr.",
+             "agency": "Department of Commerce"
+           },
+           "question": "On the Nomination",
+           "description": "Wilbur L. Ross, Jr., of Florida, to be Secretary of Commerce",
+           "vote_type": "1/2",
+           "date": "2017-02-28",
+           "time": "19:01:00",
+           "result": "Nomination Confirmed",
+           "tie_breaker": "",
+           "tie_breaker_vote": "",
+           "document_number": "",
+           "document_title": "",
+           "democratic": {
+             "yes": "20",
+             "no": "26",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "72",
+             "no": "27",
+             "present": "0",
+             "not_voting": "1"
+            }
+          }
+         ]
+    }
+}

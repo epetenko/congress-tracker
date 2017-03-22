@@ -1,0 +1,3803 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "House",
+      "start_date": "2017-02-20",
+      "end_date": "2017-03-22",
+      "num_results": "82",
+      "votes": [
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "181",
+           "source": "http://clerk.house.gov/evs/2017/roll181.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll181.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/181.json",
+                      "bill": {
+           "number": "H.R.1297",
+           "bill_id": "hr1297-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1297.json",
+           "title": "Quadrennial Homeland Security Review Technical Corrections Act of 2017",
+           "latest_action": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "description": "Quadrennial Homeland Security Review Technical Corrections Act of 2017",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2017-03-21",
+           "time": "16:55:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "183",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "415",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "180",
+           "source": "http://clerk.house.gov/evs/2017/roll180.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll180.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/180.json",
+                      "bill": {
+           "number": "H.RES.210",
+           "bill_id": "hres210-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres210.json",
+           "title": "Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.",
+           "latest_action": "Placed on the House Calendar, Calendar No. 23."
+           },
+           "question": "On Agreeing to the Resolution",
+           "description": "Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-21",
+           "time": "16:45:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "186",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "186",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "179",
+           "source": "http://clerk.house.gov/evs/2017/roll179.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll179.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/179.json",
+                      "bill": {
+           "number": "H.RES.210",
+           "bill_id": "hres210-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres210.json",
+           "title": "Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees.",
+           "latest_action": "Placed on the House Calendar, Calendar No. 23."
+           },
+           "question": "On Ordering the Previous Question",
+           "description": "Providing for consideration of the bill (H.R. 1101) to amend title I of the Employee Retirement Income Security Act of 1974 to improve access and choice for entrepreneurs with small businesses with respect to medical care for their employees",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-21",
+           "time": "16:37:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "186",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "186",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "178",
+           "source": "http://clerk.house.gov/evs/2017/roll178.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll178.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/178.json",
+                      "bill": {
+           "number": "H.R.1353",
+           "bill_id": "hr1353-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1353.json",
+           "title": "Transparency in Technological Acquisitions Act of 2017",
+           "latest_action": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed."
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "description": "Transparency in Technological Acquisitions Act of 2017",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2017-03-21",
+           "time": "13:49:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "2",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "414",
+             "no": "2",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "177",
+           "source": "http://clerk.house.gov/evs/2017/roll177.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll177.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/177.json",
+                      "bill": {
+           "number": "H.RES.209",
+           "bill_id": "hres209-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres209.json",
+           "title": "Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.",
+           "latest_action": "Placed on the House Calendar, Calendar No. 22."
+           },
+           "question": "On Agreeing to the Resolution",
+           "description": "Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-21",
+           "time": "13:42:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "182",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "234",
+             "no": "182",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "176",
+           "source": "http://clerk.house.gov/evs/2017/roll176.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll176.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/176.json",
+                      "bill": {
+           "number": "H.RES.209",
+           "bill_id": "hres209-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres209.json",
+           "title": "Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.",
+           "latest_action": "Placed on the House Calendar, Calendar No. 22."
+           },
+           "question": "On Ordering the Previous Question",
+           "description": "Providing for consideration of the bill (H.R. 372) to restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-21",
+           "time": "13:35:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "184",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "1",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "231",
+             "no": "185",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "175",
+           "source": "http://clerk.house.gov/evs/2017/roll175.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll175.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/175.json",
+                      "bill": {
+           "number": "H.R.1252",
+           "bill_id": "hr1252-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1252.json",
+           "title": "DHS Acquisition Authorities Act of 2017",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Motion to Suspend the Rules and Pass, as Amended",
+           "description": "DHS Acquisition Authorities Act of 2017",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2017-03-20",
+           "time": "19:13:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "182",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "225",
+             "no": "1",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "407",
+             "no": "1",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "174",
+           "source": "http://clerk.house.gov/evs/2017/roll174.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll174.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/174.json",
+                      "bill": {
+           "number": "H.R.1249",
+           "bill_id": "hr1249-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1249.json",
+           "title": "DHS Multiyear Acquisition Strategy Act of 2017",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Motion to Suspend the Rules and Pass, as Amended",
+           "description": "DHS Multiyear Acquisition Strategy Act of 2017",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2017-03-20",
+           "time": "19:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "228",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "409",
+             "no": "0",
+             "present": "0",
+             "not_voting": "20"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "173",
+           "source": "http://clerk.house.gov/evs/2017/roll173.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll173.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/173.json",
+                      "bill": {
+           "number": "H.R.1294",
+           "bill_id": "hr1294-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1294.json",
+           "title": "Reducing DHS Acquisition Cost Growth Act",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "description": "Reducing DHS Acquisition Cost Growth Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2017-03-20",
+           "time": "18:51:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "227",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "408",
+             "no": "0",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "172",
+           "source": "http://clerk.house.gov/evs/2017/roll172.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll172.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/172.json",
+                      "question": "On Approving the Journal",
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-17",
+           "time": "11:44:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "109",
+             "no": "67",
+             "present": "1",
+             "not_voting": "16",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "137",
+             "no": "76",
+             "present": "1",
+             "not_voting": "23",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "246",
+             "no": "143",
+             "present": "2",
+             "not_voting": "38"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "171",
+           "source": "http://clerk.house.gov/evs/2017/roll171.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll171.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/171.json",
+                      "bill": {
+           "number": "H.R.1367",
+           "bill_id": "hr1367-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1367.json",
+           "title": "To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Passage",
+           "description": "To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-17",
+           "time": "11:36:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "180",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "412",
+             "no": "0",
+             "present": "0",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "170",
+           "source": "http://clerk.house.gov/evs/2017/roll170.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll170.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/170.json",
+                      "bill": {
+           "number": "H.R.1367",
+           "bill_id": "hr1367-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1367.json",
+           "title": "To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Hanabusa of Hawaii Part B Amendment No. 11",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-17",
+           "time": "11:28:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "175",
+             "no": "0",
+             "present": "0",
+             "not_voting": "18",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "225",
+             "no": "8",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "400",
+             "no": "8",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "169",
+           "source": "http://clerk.house.gov/evs/2017/roll169.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll169.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/169.json",
+                      "bill": {
+           "number": "H.R.1181",
+           "bill_id": "hr1181-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1181.json",
+           "title": "Veterans 2nd Amendment Protection Act",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Passage",
+           "description": "Veterans 2nd Amendment Protection Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-16",
+           "time": "18:05:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "12",
+             "no": "173",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "228",
+             "no": "2",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "175",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "168",
+           "source": "http://clerk.house.gov/evs/2017/roll168.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll168.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/168.json",
+                      "bill": {
+           "number": "H.R.1259",
+           "bill_id": "hr1259-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1259.json",
+           "title": "VA Accountability First Act of 2017",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Passage",
+           "description": "VA Accountability First Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-16",
+           "time": "17:58:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "10",
+             "no": "175",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "227",
+             "no": "3",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "237",
+             "no": "178",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "167",
+           "source": "http://clerk.house.gov/evs/2017/roll167.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll167.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/167.json",
+                      "bill": {
+           "number": "H.R.1259",
+           "bill_id": "hr1259-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1259.json",
+           "title": "VA Accountability First Act of 2017",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Motion to Recommit with Instructions",
+           "description": "VA Accountability First Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-16",
+           "time": "17:51:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "187",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "229",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "189",
+             "no": "229",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "166",
+           "source": "http://clerk.house.gov/evs/2017/roll166.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll166.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/166.json",
+                      "bill": {
+           "number": "H.R.1259",
+           "bill_id": "hr1259-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1259.json",
+           "title": "VA Accountability First Act of 2017",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Takano of California Part A Amendment No. 9",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-16",
+           "time": "17:33:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "183",
+             "no": "3",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "229",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "183",
+             "no": "232",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "165",
+           "source": "http://clerk.house.gov/evs/2017/roll165.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll165.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/165.json",
+                      "bill": {
+           "number": "H.R.1259",
+           "bill_id": "hr1259-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1259.json",
+           "title": "VA Accountability First Act of 2017",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Walz of Minnesota Part A Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-16",
+           "time": "17:29:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "187",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "7",
+             "no": "223",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "194",
+             "no": "223",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "164",
+           "source": "http://clerk.house.gov/evs/2017/roll164.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll164.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/164.json",
+                      "question": "On Approving the Journal",
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-16",
+           "time": "14:13:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "90",
+             "no": "91",
+             "present": "1",
+             "not_voting": "11",
+             "majority_position": "None"
+            },
+           "republican": {
+             "yes": "153",
+             "no": "74",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "243",
+             "no": "165",
+             "present": "1",
+             "not_voting": "20"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "163",
+           "source": "http://clerk.house.gov/evs/2017/roll163.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll163.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/163.json",
+                      "bill": {
+           "number": "H.RES.198",
+           "bill_id": "hres198-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres198.json",
+           "title": "Providing for consideration of the bill (H.R. 1259) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes; providing for consideration of the bill (H.R. 1367) to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes; and providing for consideration of the bill (H.R. 1181) to amend title 38, United States Code, to clarify the conditions under which certain persons may be treated as adjudicated mentally incompetent for certain purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Agreeing to the Resolution",
+           "description": "Providing for consideration of H.R. 1259, the VA Accountability First Act of 2017; H.R. 1367, to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs; and H.R. 1181, theVeterans 2nd Amendment Protection Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-16",
+           "time": "14:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "187",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "229",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "229",
+             "no": "187",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "162",
+           "source": "http://clerk.house.gov/evs/2017/roll162.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll162.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/162.json",
+                      "bill": {
+           "number": "H.RES.198",
+           "bill_id": "hres198-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres198.json",
+           "title": "Providing for consideration of the bill (H.R. 1259) to amend title 38, United States Code, to provide for the removal or demotion of employees of the Department of Veterans Affairs based on performance or misconduct, and for other purposes; providing for consideration of the bill (H.R. 1367) to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes; and providing for consideration of the bill (H.R. 1181) to amend title 38, United States Code, to clarify the conditions under which certain persons may be treated as adjudicated mentally incompetent for certain purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Ordering the Previous Question",
+           "description": "Providing for consideration of H.R. 1259, the VA Accountability First Act of 2017; H.R. 1367, to improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs; and H.R. 1181, theVeterans 2nd Amendment Protection Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-16",
+           "time": "13:58:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "184",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "227",
+             "no": "1",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "227",
+             "no": "185",
+             "present": "0",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "161",
+           "source": "http://clerk.house.gov/evs/2017/roll161.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll161.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/161.json",
+                      "question": "Table Appeal of the Ruling of the Chair",
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-15",
+           "time": "19:47:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "223",
+             "no": "1",
+             "present": "1",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "223",
+             "no": "183",
+             "present": "1",
+             "not_voting": "22"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "160",
+           "source": "http://clerk.house.gov/evs/2017/roll160.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll160.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/160.json",
+                      "bill": {
+           "number": "H.R.648",
+           "bill_id": "hr648-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr648.json",
+           "title": "To authorize the Secretary of the Interior to amend the Definite Plan Report for the Seedskadee Project to enable the use of the active capacity of the Fontenelle Reservoir.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "description": "To authorize the Secretary of the Interior to amend the Definite Plan Report for the Seedskadee Project to enable the use of the active capacity of the Fontenelle Reservoir",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2017-03-15",
+           "time": "19:03:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "227",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "408",
+             "no": "0",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "159",
+           "source": "http://clerk.house.gov/evs/2017/roll159.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll159.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/159.json",
+                      "bill": {
+           "number": "H.R.132",
+           "bill_id": "hr132-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr132.json",
+           "title": "Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "description": "Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2017-03-15",
+           "time": "18:57:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "226",
+             "no": "1",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "407",
+             "no": "1",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "158",
+           "source": "http://clerk.house.gov/evs/2017/roll158.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll158.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/158.json",
+                      "bill": {
+           "number": "H.R.720",
+           "bill_id": "hr720-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+           "title": "Lawsuit Abuse Reduction Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Passage",
+           "description": "Lawsuit Abuse Reduction Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-10",
+           "time": "11:29:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "183",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "227",
+             "no": "5",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "230",
+             "no": "188",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "157",
+           "source": "http://clerk.house.gov/evs/2017/roll157.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll157.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/157.json",
+                      "bill": {
+           "number": "H.R.720",
+           "bill_id": "hr720-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+           "title": "Lawsuit Abuse Reduction Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Motion to Recommit with Instructions",
+           "description": "Lawsuit Abuse Reduction Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-10",
+           "time": "11:18:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "186",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "232",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "186",
+             "no": "232",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "156",
+           "source": "http://clerk.house.gov/evs/2017/roll156.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll156.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/156.json",
+                      "bill": {
+           "number": "H.R.720",
+           "bill_id": "hr720-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+           "title": "Lawsuit Abuse Reduction Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Jeffries of New York Part A Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-10",
+           "time": "11:02:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "185",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "229",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "189",
+             "no": "229",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "155",
+           "source": "http://clerk.house.gov/evs/2017/roll155.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll155.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/155.json",
+                      "bill": {
+           "number": "H.R.720",
+           "bill_id": "hr720-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+           "title": "Lawsuit Abuse Reduction Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Conyers of Michigan Part A Amendment No. 3",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-10",
+           "time": "10:58:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "185",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "227",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "190",
+             "no": "227",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "154",
+           "source": "http://clerk.house.gov/evs/2017/roll154.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll154.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/154.json",
+                      "bill": {
+           "number": "H.R.720",
+           "bill_id": "hr720-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+           "title": "Lawsuit Abuse Reduction Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Jackson Lee of Texas Part A Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-10",
+           "time": "10:53:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "181",
+             "no": "1",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "224",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "185",
+             "no": "225",
+             "present": "0",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "153",
+           "source": "http://clerk.house.gov/evs/2017/roll153.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll153.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/153.json",
+                      "bill": {
+           "number": "H.R.720",
+           "bill_id": "hr720-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+           "title": "Lawsuit Abuse Reduction Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Soto of Florida Part A Amendment No. 1",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-10",
+           "time": "10:49:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "178",
+             "no": "1",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "224",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "181",
+             "no": "225",
+             "present": "0",
+             "not_voting": "23"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "152",
+           "source": "http://clerk.house.gov/evs/2017/roll152.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll152.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/152.json",
+                      "bill": {
+           "number": "H.R.725",
+           "bill_id": "hr725-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr725.json",
+           "title": "Innocent Party Protection Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Passage",
+           "description": "Innocent Party Protection Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "19:19:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "184",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "224",
+             "no": "10",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "224",
+             "no": "194",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "151",
+           "source": "http://clerk.house.gov/evs/2017/roll151.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll151.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/151.json",
+                      "bill": {
+           "number": "H.R.725",
+           "bill_id": "hr725-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr725.json",
+           "title": "Innocent Party Protection Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Motion to Recommit with Instructions",
+           "description": "Innocent Party Protection Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "19:14:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "186",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "233",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "187",
+             "no": "233",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "150",
+           "source": "http://clerk.house.gov/evs/2017/roll150.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll150.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/150.json",
+                      "bill": {
+           "number": "H.R.725",
+           "bill_id": "hr725-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr725.json",
+           "title": "Innocent Party Protection Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Cartwright of Pennsylvania Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "19:02:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "182",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "229",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "187",
+             "no": "229",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "149",
+           "source": "http://clerk.house.gov/evs/2017/roll149.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll149.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/149.json",
+                      "bill": {
+           "number": "H.R.725",
+           "bill_id": "hr725-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr725.json",
+           "title": "Innocent Party Protection Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Soto of Florida Amendment No. 1",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "18:59:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "186",
+             "no": "1",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "232",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "189",
+             "no": "233",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "148",
+           "source": "http://clerk.house.gov/evs/2017/roll148.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll148.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/148.json",
+                      "bill": {
+           "number": "H.R.985",
+           "bill_id": "hr985-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+           "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Passage",
+           "description": "Fairness in Class Action Litigation Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "18:52:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "187",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "220",
+             "no": "14",
+             "present": "1",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "220",
+             "no": "201",
+             "present": "1",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "147",
+           "source": "http://clerk.house.gov/evs/2017/roll147.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll147.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/147.json",
+                      "bill": {
+           "number": "H.R.985",
+           "bill_id": "hr985-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+           "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Motion to Recommit with Instructions",
+           "description": "Fairness in Class Action Litigation Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "18:46:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "187",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "234",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "188",
+             "no": "234",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "146",
+           "source": "http://clerk.house.gov/evs/2017/roll146.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll146.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/146.json",
+                      "bill": {
+           "number": "H.R.985",
+           "bill_id": "hr985-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+           "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Espaillat of New York Part B Amendment No. 8",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "18:28:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "187",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "6",
+             "no": "228",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "193",
+             "no": "228",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "145",
+           "source": "http://clerk.house.gov/evs/2017/roll145.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll145.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/145.json",
+                      "bill": {
+           "number": "H.R.985",
+           "bill_id": "hr985-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+           "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Jackson Lee of Texas Part B Amendment No. 7",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "18:25:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "187",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "6",
+             "no": "229",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "193",
+             "no": "229",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "144",
+           "source": "http://clerk.house.gov/evs/2017/roll144.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll144.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/144.json",
+                      "bill": {
+           "number": "H.R.985",
+           "bill_id": "hr985-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+           "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Conyers of Michigan Part B Amendment No. 6",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "18:21:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "186",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "230",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "191",
+             "no": "230",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "143",
+           "source": "http://clerk.house.gov/evs/2017/roll143.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll143.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/143.json",
+                      "bill": {
+           "number": "H.R.985",
+           "bill_id": "hr985-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+           "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Johnson of Georgia Part B Amendment No. 5",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "18:18:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "186",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "230",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "190",
+             "no": "230",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "142",
+           "source": "http://clerk.house.gov/evs/2017/roll142.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll142.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/142.json",
+                      "bill": {
+           "number": "H.R.985",
+           "bill_id": "hr985-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+           "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Soto of Florida Part B Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "18:15:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "187",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "230",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "192",
+             "no": "230",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "141",
+           "source": "http://clerk.house.gov/evs/2017/roll141.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll141.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/141.json",
+                      "bill": {
+           "number": "H.R.985",
+           "bill_id": "hr985-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+           "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Deutch of Florida Part B Amendment No. 3",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "18:11:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "183",
+             "no": "1",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "6",
+             "no": "227",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "189",
+             "no": "228",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "140",
+           "source": "http://clerk.house.gov/evs/2017/roll140.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll140.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/140.json",
+                      "bill": {
+           "number": "H.R.985",
+           "bill_id": "hr985-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+           "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on the Judiciary."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Deutch of Florida Part B Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-09",
+           "time": "18:07:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "178",
+             "no": "0",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "227",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "182",
+             "no": "227",
+             "present": "0",
+             "not_voting": "20"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "139",
+           "source": "http://clerk.house.gov/evs/2017/roll139.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll139.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/139.json",
+                      "bill": {
+           "number": "H.RES.180",
+           "bill_id": "hres180-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres180.json",
+           "title": "Providing for consideration of the bill (H.R. 720) to amend Rule 11 of the Federal Rules of Civil Procedure to improve attorney accountability, and for other purposes, and providing for consideration of the bill (H.R. 985) to amend the procedures used in Federal court class actions and multidistrict litigation proceedings to assure fairer, more efficient outcomes for claimants and defendants, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Agreeing to the Resolution",
+           "description": "Providing for consideration of H.R. 720, the Lawsuit Abuse Reduction Act of 2017; and providing for consideration of H.R. 985, the Fairness in Class Action Litigation Act of 2017",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-09",
+           "time": "14:51:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "184",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "184",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "138",
+           "source": "http://clerk.house.gov/evs/2017/roll138.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll138.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/138.json",
+                      "bill": {
+           "number": "H.RES.180",
+           "bill_id": "hres180-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres180.json",
+           "title": "Providing for consideration of the bill (H.R. 720) to amend Rule 11 of the Federal Rules of Civil Procedure to improve attorney accountability, and for other purposes, and providing for consideration of the bill (H.R. 985) to amend the procedures used in Federal court class actions and multidistrict litigation proceedings to assure fairer, more efficient outcomes for claimants and defendants, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Ordering the Previous Question",
+           "description": "Providing for consideration of H.R. 720, the Lawsuit Abuse Reduction Act of 2017; and providing for consideration of H.R. 985, the Fairness in Class Action Litigation Act of 2017",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-09",
+           "time": "14:42:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "186",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "186",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "137",
+           "source": "http://clerk.house.gov/evs/2017/roll137.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll137.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/137.json",
+                      "question": "On Motion to Adjourn",
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-08",
+           "time": "17:45:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "109",
+             "no": "75",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "205",
+             "no": "23",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "314",
+             "no": "98",
+             "present": "0",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "136",
+           "source": "http://clerk.house.gov/evs/2017/roll136.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll136.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/136.json",
+                      "bill": {
+           "number": "H.R.1301",
+           "bill_id": "hr1301-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1301.json",
+           "title": "Department of Defense Appropriations Act, 2017",
+           "latest_action": "Received in the Senate."
+           },
+           "question": "On Passage",
+           "description": "Making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-08",
+           "time": "17:19:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "141",
+             "no": "43",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "230",
+             "no": "5",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "371",
+             "no": "48",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "135",
+           "source": "http://clerk.house.gov/evs/2017/roll135.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll135.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/135.json",
+                      "question": "On Motion to Adjourn",
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-08",
+           "time": "16:56:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "113",
+             "no": "64",
+             "present": "0",
+             "not_voting": "16",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "226",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "114",
+             "no": "290",
+             "present": "0",
+             "not_voting": "25"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "134",
+           "source": "http://clerk.house.gov/evs/2017/roll134.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll134.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/134.json",
+                      "question": "On Motion to Adjourn",
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-08",
+           "time": "15:33:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "107",
+             "no": "57",
+             "present": "0",
+             "not_voting": "29",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "220",
+             "present": "0",
+             "not_voting": "17",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "107",
+             "no": "277",
+             "present": "0",
+             "not_voting": "45"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "133",
+           "source": "http://clerk.house.gov/evs/2017/roll133.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll133.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/133.json",
+                      "bill": {
+           "number": "H.RES.174",
+           "bill_id": "hres174-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres174.json",
+           "title": "Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes.",
+           "latest_action": "Placed on the House Calendar, Calendar No. 16."
+           },
+           "question": "On Agreeing to the Resolution",
+           "description": "Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-08",
+           "time": "15:16:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "5",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "228",
+             "no": "3",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "185",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "132",
+           "source": "http://clerk.house.gov/evs/2017/roll132.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll132.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/132.json",
+                      "question": "On Motion to Adjourn",
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-08",
+           "time": "15:09:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "127",
+             "no": "61",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "234",
+             "present": "1",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "127",
+             "no": "295",
+             "present": "1",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "131",
+           "source": "http://clerk.house.gov/evs/2017/roll131.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll131.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/131.json",
+                      "bill": {
+           "number": "H.RES.174",
+           "bill_id": "hres174-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres174.json",
+           "title": "Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes.",
+           "latest_action": "Placed on the House Calendar, Calendar No. 16."
+           },
+           "question": "On Ordering the Previous Question",
+           "description": "Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-08",
+           "time": "14:51:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "188",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "232",
+             "no": "189",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "130",
+           "source": "http://clerk.house.gov/evs/2017/roll130.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll130.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/130.json",
+                      "bill": {
+           "number": "H.RES.175",
+           "bill_id": "hres175-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres175.json",
+           "title": "Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder.",
+           "latest_action": "Placed on the House Calendar, Calendar No. 17."
+           },
+           "question": "On Agreeing to the Resolution",
+           "description": "Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-08",
+           "time": "14:44:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "185",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "235",
+             "no": "185",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "129",
+           "source": "http://clerk.house.gov/evs/2017/roll129.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll129.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/129.json",
+                      "bill": {
+           "number": "H.RES.175",
+           "bill_id": "hres175-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres175.json",
+           "title": "Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder.",
+           "latest_action": "Placed on the House Calendar, Calendar No. 17."
+           },
+           "question": "On Ordering the Previous Question",
+           "description": "Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-08",
+           "time": "14:36:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "230",
+             "no": "1",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "230",
+             "no": "184",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "128",
+           "source": "http://clerk.house.gov/evs/2017/roll128.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll128.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/128.json",
+                      "question": "Table Appeal of the Ruling of the Chair",
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-07",
+           "time": "19:29:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "185",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "226",
+             "no": "1",
+             "present": "1",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "227",
+             "no": "186",
+             "present": "1",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "127",
+           "source": "http://clerk.house.gov/evs/2017/roll127.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll127.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/127.json",
+                      "bill": {
+           "number": "H.R.1362",
+           "bill_id": "hr1362-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1362.json",
+           "title": "To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, American Samoa, the Faleomavaega Eni Fa'aua'a Hunkin VA Clinic.",
+           "latest_action": "Presented to President."
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "description": "To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, American Samoa, the Faleomavaega Eni Fa’aua’a Hunkin VA Clinic",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2017-03-07",
+           "time": "18:56:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "185",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "226",
+             "no": "2",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "411",
+             "no": "2",
+             "present": "0",
+             "not_voting": "16"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "126",
+           "source": "http://clerk.house.gov/evs/2017/roll126.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll126.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/126.json",
+                      "bill": {
+           "number": "H.R.1004",
+           "bill_id": "hr1004-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1004.json",
+           "title": "Regulatory Integrity Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Passage",
+           "description": "Regulatory Integrity Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-02",
+           "time": "11:14:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "15",
+             "no": "175",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "1",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "246",
+             "no": "176",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "125",
+           "source": "http://clerk.house.gov/evs/2017/roll125.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll125.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/125.json",
+                      "bill": {
+           "number": "H.R.1004",
+           "bill_id": "hr1004-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1004.json",
+           "title": "Regulatory Integrity Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Motion to Recommit with Instructions",
+           "description": "Regulatory Integrity Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-02",
+           "time": "11:07:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "188",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "231",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "189",
+             "no": "232",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "124",
+           "source": "http://clerk.house.gov/evs/2017/roll124.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll124.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/124.json",
+                      "bill": {
+           "number": "H.R.1004",
+           "bill_id": "hr1004-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1004.json",
+           "title": "Regulatory Integrity Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Jackson Lee of Texas Part A Amendment No. 3",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-02",
+           "time": "10:50:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "184",
+             "no": "5",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "227",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "189",
+             "no": "232",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "123",
+           "source": "http://clerk.house.gov/evs/2017/roll123.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll123.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/123.json",
+                      "bill": {
+           "number": "H.R.1004",
+           "bill_id": "hr1004-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1004.json",
+           "title": "Regulatory Integrity Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Farenthold of Texas Part A Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-02",
+           "time": "10:43:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "39",
+             "no": "144",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "224",
+             "no": "1",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "263",
+             "no": "145",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "122",
+           "source": "http://clerk.house.gov/evs/2017/roll122.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll122.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/122.json",
+                      "bill": {
+           "number": "H.R.1004",
+           "bill_id": "hr1004-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1004.json",
+           "title": "Regulatory Integrity Act of 2017",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Jackson Lee of Texas Part A Amendment No. 1",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-02",
+           "time": "10:38:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "180",
+             "no": "3",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "231",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "180",
+             "no": "234",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "121",
+           "source": "http://clerk.house.gov/evs/2017/roll121.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll121.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/121.json",
+                      "bill": {
+           "number": "H.J.RES.83",
+           "bill_id": "hjres83-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hjres83.json",
+           "title": "Disapproving the rule submitted by the Department of Labor relating to 'Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness'.",
+           "latest_action": "Received in the Senate."
+           },
+           "question": "On Passage",
+           "description": "Disapproving the rule submitted by the Department of Labor relating to “Clarification of Employer’s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness”",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-01",
+           "time": "18:25:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "4",
+             "no": "185",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "227",
+             "no": "6",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "231",
+             "no": "191",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "120",
+           "source": "http://clerk.house.gov/evs/2017/roll120.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll120.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/120.json",
+                      "bill": {
+           "number": "H.R.1009",
+           "bill_id": "hr1009-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1009.json",
+           "title": "OIRA Insight, Reform, and Accountability Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Passage",
+           "description": "OIRA Insight, Reform, and Accountability Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-01",
+           "time": "18:18:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "7",
+             "no": "184",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "241",
+             "no": "184",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "119",
+           "source": "http://clerk.house.gov/evs/2017/roll119.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll119.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/119.json",
+                      "bill": {
+           "number": "H.R.1009",
+           "bill_id": "hr1009-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1009.json",
+           "title": "OIRA Insight, Reform, and Accountability Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Motion to Recommit with Instructions",
+           "description": "OIRA Insight, Reform, and Accountability Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-01",
+           "time": "18:11:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "192",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "234",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "193",
+             "no": "234",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "118",
+           "source": "http://clerk.house.gov/evs/2017/roll118.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll118.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/118.json",
+                      "bill": {
+           "number": "H.R.1009",
+           "bill_id": "hr1009-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1009.json",
+           "title": "OIRA Insight, Reform, and Accountability Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Connolly of Virginia Part B Amendment No. 6",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-01",
+           "time": "17:53:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "187",
+             "no": "2",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "232",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "188",
+             "no": "234",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "117",
+           "source": "http://clerk.house.gov/evs/2017/roll117.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll117.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/117.json",
+                      "bill": {
+           "number": "H.R.1009",
+           "bill_id": "hr1009-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr1009.json",
+           "title": "OIRA Insight, Reform, and Accountability Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Young of Iowa Part B Amendment No. 3",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-01",
+           "time": "17:48:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "33",
+             "no": "158",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "265",
+             "no": "158",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "116",
+           "source": "http://clerk.house.gov/evs/2017/roll116.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll116.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/116.json",
+                      "bill": {
+           "number": "H.RES.156",
+           "bill_id": "hres156-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres156.json",
+           "title": "Providing for consideration of the bill (H.R. 1004) to amend chapter 3 of title 5, United States Code, to require the publication of information relating to pending agency regulatory actions, and for other purposes, and providing for consideration of the bill (H.R. 1009) to amend title 44, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to review regulations, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Agreeing to the Resolution",
+           "description": "Providing for consideration of H.R. 1004, the Regulatory Integrity Act of 2017; and H.R. 1009, the OIRA Insight, Reform, and Accountability Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-01",
+           "time": "15:20:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "180",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "234",
+             "no": "180",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "115",
+           "source": "http://clerk.house.gov/evs/2017/roll115.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll115.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/115.json",
+                      "bill": {
+           "number": "H.RES.156",
+           "bill_id": "hres156-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres156.json",
+           "title": "Providing for consideration of the bill (H.R. 1004) to amend chapter 3 of title 5, United States Code, to require the publication of information relating to pending agency regulatory actions, and for other purposes, and providing for consideration of the bill (H.R. 1009) to amend title 44, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to review regulations, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Ordering the Previous Question",
+           "description": "Providing for consideration of H.R. 1004, the Regulatory Integrity Act of 2017; and H.R. 1009, the OIRA Insight, Reform, and Accountability Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-03-01",
+           "time": "15:13:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "189",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "189",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "114",
+           "source": "http://clerk.house.gov/evs/2017/roll114.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll114.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/114.json",
+                      "bill": {
+           "number": "H.R.998",
+           "bill_id": "hr998-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+           "title": "SCRUB Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Passage",
+           "description": "SCRUB Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-01",
+           "time": "15:07:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "11",
+             "no": "180",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "229",
+             "no": "5",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "185",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "113",
+           "source": "http://clerk.house.gov/evs/2017/roll113.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll113.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/113.json",
+                      "bill": {
+           "number": "H.R.998",
+           "bill_id": "hr998-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+           "title": "SCRUB Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Motion to Recommit with Instructions",
+           "description": "SCRUB Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-01",
+           "time": "15:00:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "190",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "235",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "190",
+             "no": "235",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "112",
+           "source": "http://clerk.house.gov/evs/2017/roll112.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll112.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/112.json",
+                      "bill": {
+           "number": "H.R.998",
+           "bill_id": "hr998-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+           "title": "SCRUB Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Cummings of Maryland Amendment No. 12",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-01",
+           "time": "14:36:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "190",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "231",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "194",
+             "no": "231",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "111",
+           "source": "http://clerk.house.gov/evs/2017/roll111.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll111.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/111.json",
+                      "bill": {
+           "number": "H.R.998",
+           "bill_id": "hr998-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+           "title": "SCRUB Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Moore of Wisconsin Amendment No. 11",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-01",
+           "time": "14:32:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "191",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "6",
+             "no": "229",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "197",
+             "no": "229",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "110",
+           "source": "http://clerk.house.gov/evs/2017/roll110.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll110.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/110.json",
+                      "bill": {
+           "number": "H.R.998",
+           "bill_id": "hr998-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+           "title": "SCRUB Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Raskin of Maryland Amendment No. 10",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-01",
+           "time": "14:27:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "188",
+             "no": "2",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "229",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "189",
+             "no": "231",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "109",
+           "source": "http://clerk.house.gov/evs/2017/roll109.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll109.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/109.json",
+                      "bill": {
+           "number": "H.R.998",
+           "bill_id": "hr998-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+           "title": "SCRUB Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Bonamici of Oregon Amendment No. 8",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-03-01",
+           "time": "14:19:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "191",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "234",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "191",
+             "no": "235",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "108",
+           "source": "http://clerk.house.gov/evs/2017/roll108.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll108.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/108.json",
+                      "bill": {
+           "number": "H.R.998",
+           "bill_id": "hr998-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+           "title": "SCRUB Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Krishnamoorthi of Illinois Amendment No. 7",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-02-28",
+           "time": "16:22:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "190",
+             "no": "1",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "229",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "192",
+             "no": "230",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "107",
+           "source": "http://clerk.house.gov/evs/2017/roll107.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll107.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/107.json",
+                      "bill": {
+           "number": "H.R.998",
+           "bill_id": "hr998-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+           "title": "SCRUB Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Krishnamoorthi of Illinois Amendment No. 6",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-02-28",
+           "time": "16:18:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "188",
+             "no": "3",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "231",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "189",
+             "no": "234",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "106",
+           "source": "http://clerk.house.gov/evs/2017/roll106.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll106.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/106.json",
+                      "bill": {
+           "number": "H.R.998",
+           "bill_id": "hr998-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+           "title": "SCRUB Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "Plaskett of Virgin Islands Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-02-28",
+           "time": "16:14:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "181",
+             "no": "11",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "232",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "181",
+             "no": "243",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "105",
+           "source": "http://clerk.house.gov/evs/2017/roll105.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll105.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/105.json",
+                      "bill": {
+           "number": "H.R.998",
+           "bill_id": "hr998-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+           "title": "SCRUB Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "question": "On Agreeing to the Amendment",
+           "description": "DeSaulnier of California Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-02-28",
+           "time": "16:11:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "192",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "156",
+             "no": "75",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "348",
+             "no": "75",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "104",
+           "source": "http://clerk.house.gov/evs/2017/roll104.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll104.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/104.json",
+                      "bill": {
+           "number": "H.RES.150",
+           "bill_id": "hres150-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres150.json",
+           "title": "Providing for consideration of the bill (H.R. 998) to provide for the establishment of a process for the review of rules and sets of rules, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 83) disapproving the rule submitted by the Department of Labor relating to 'Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness'.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Agreeing to the Resolution",
+           "description": "Providing for consideration of the bill (H.R. 998) SCRUB Act, and providing for consideration of (H.J.Res. 83) disapproving the rule submitted by the Department of Labor relating to “Clarification of Employer’s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness”",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-02-28",
+           "time": "14:18:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "188",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "224",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "225",
+             "no": "188",
+             "present": "0",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "103",
+           "source": "http://clerk.house.gov/evs/2017/roll103.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll103.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/103.json",
+                      "bill": {
+           "number": "H.RES.150",
+           "bill_id": "hres150-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hres150.json",
+           "title": "Providing for consideration of the bill (H.R. 998) to provide for the establishment of a process for the review of rules and sets of rules, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 83) disapproving the rule submitted by the Department of Labor relating to 'Clarification of Employer's Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness'.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "question": "On Ordering the Previous Question",
+           "description": "Providing for consideration of the bill (H.R. 998) SCRUB Act, and providing for consideration of (H.J.Res. 83) disapproving the rule submitted by the Department of Labor relating to “Clarification of Employer’s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness”",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2017-02-28",
+           "time": "14:11:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "191",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "224",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "224",
+             "no": "191",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "102",
+           "source": "http://clerk.house.gov/evs/2017/roll102.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll102.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/102.json",
+                      "bill": {
+           "number": "H.R.863",
+           "bill_id": "hr863-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr863.json",
+           "title": "To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes.",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "description": "To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2017-02-27",
+           "time": "19:34:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "184",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "185",
+             "no": "42",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "369",
+             "no": "42",
+             "present": "0",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "101",
+           "source": "http://clerk.house.gov/evs/2017/roll101.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll101.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/101.json",
+                      "question": "Table Appeal of the Ruling of the Chair",
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2017-02-27",
+           "time": "19:27:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "185",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "229",
+             "no": "0",
+             "present": "2",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "229",
+             "no": "185",
+             "present": "2",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "100",
+           "source": "http://clerk.house.gov/evs/2017/roll100.xml",
+           "url": "http://clerk.house.gov/evs/2017/roll100.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/115/house/sessions/1/votes/100.json",
+                      "bill": {
+           "number": "H.R.699",
+           "bill_id": "hr699-115",
+           "api_uri": "https://api.propublica.org/congress/v1/115/bills/hr699.json",
+           "title": "Mount Hood Cooper Spur Land Exchange Clarification Act",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "description": "Mount Hood Cooper Spur Land Exchange Clarification Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2017-02-27",
+           "time": "18:52:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "185",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "230",
+             "no": "1",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "415",
+             "no": "1",
+             "present": "0",
+             "not_voting": "14"
+            }
+          }
+         ]
+    }
+}

@@ -1,0 +1,3026 @@
+{
+ "divisions": {
+  "ocd-division/country:us/state:nj/cd:1": {
+   "name": "New Jersey's 1st congressional district",
+   "officeIndices": [
+    4
+   ]
+  },
+  "ocd-division/country:us/state:nj/cd:10": {
+   "name": "New Jersey's 10th congressional district",
+   "officeIndices": [
+    1
+   ]
+  },
+  "ocd-division/country:us/state:nj/cd:11": {
+   "name": "New Jersey's 11th congressional district",
+   "officeIndices": [
+    2
+   ]
+  },
+  "ocd-division/country:us/state:nj/cd:12": {
+   "name": "New Jersey's 12th congressional district",
+   "officeIndices": [
+    0
+   ]
+  },
+  "ocd-division/country:us/state:nj/cd:2": {
+   "name": "New Jersey's 2nd congressional district",
+   "officeIndices": [
+    3
+   ]
+  },
+  "ocd-division/country:us/state:nj/cd:3": {
+   "name": "New Jersey's 3rd congressional district",
+   "officeIndices": [
+    6
+   ]
+  },
+  "ocd-division/country:us/state:nj/cd:4": {
+   "name": "New Jersey's 4th congressional district",
+   "officeIndices": [
+    5
+   ]
+  },
+  "ocd-division/country:us/state:nj/cd:5": {
+   "name": "New Jersey's 5th congressional district",
+   "officeIndices": [
+    8
+   ]
+  },
+  "ocd-division/country:us/state:nj/cd:6": {
+   "name": "New Jersey's 6th congressional district",
+   "officeIndices": [
+    7
+   ]
+  },
+  "ocd-division/country:us/state:nj/cd:7": {
+   "name": "New Jersey's 7th congressional district",
+   "officeIndices": [
+    10
+   ]
+  },
+  "ocd-division/country:us/state:nj/cd:8": {
+   "name": "New Jersey's 8th congressional district",
+   "officeIndices": [
+    9
+   ]
+  },
+  "ocd-division/country:us/state:nj/cd:9": {
+   "name": "New Jersey's 9th congressional district",
+   "officeIndices": [
+    11
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:1": {
+   "name": "New Jersey State Senate district 1",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:1"
+   ],
+   "officeIndices": [
+    12
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:10": {
+   "name": "New Jersey State Senate district 10",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:10"
+   ],
+   "officeIndices": [
+    44
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:11": {
+   "name": "New Jersey State Senate district 11",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:11"
+   ],
+   "officeIndices": [
+    43
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:12": {
+   "name": "New Jersey State Senate district 12",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:12"
+   ],
+   "officeIndices": [
+    42
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:13": {
+   "name": "New Jersey State Senate district 13",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:13"
+   ],
+   "officeIndices": [
+    51
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:14": {
+   "name": "New Jersey State Senate district 14",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:14"
+   ],
+   "officeIndices": [
+    50
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:15": {
+   "name": "New Jersey State Senate district 15",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:15"
+   ],
+   "officeIndices": [
+    49
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:16": {
+   "name": "New Jersey State Senate district 16",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:16"
+   ],
+   "officeIndices": [
+    48
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:17": {
+   "name": "New Jersey State Senate district 17",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:17"
+   ],
+   "officeIndices": [
+    47
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:18": {
+   "name": "New Jersey State Senate district 18",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:18"
+   ],
+   "officeIndices": [
+    46
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:19": {
+   "name": "New Jersey State Senate district 19",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:19"
+   ],
+   "officeIndices": [
+    45
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:2": {
+   "name": "New Jersey State Senate district 2",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:2"
+   ],
+   "officeIndices": [
+    13
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:20": {
+   "name": "New Jersey State Senate district 20",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:20"
+   ],
+   "officeIndices": [
+    35
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:21": {
+   "name": "New Jersey State Senate district 21",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:21"
+   ],
+   "officeIndices": [
+    34
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:22": {
+   "name": "New Jersey State Senate district 22",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:22"
+   ],
+   "officeIndices": [
+    33
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:23": {
+   "name": "New Jersey State Senate district 23",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:23"
+   ],
+   "officeIndices": [
+    32
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:24": {
+   "name": "New Jersey State Senate district 24",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:24"
+   ],
+   "officeIndices": [
+    41
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:25": {
+   "name": "New Jersey State Senate district 25",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:25"
+   ],
+   "officeIndices": [
+    40
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:26": {
+   "name": "New Jersey State Senate district 26",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:26"
+   ],
+   "officeIndices": [
+    39
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:27": {
+   "name": "New Jersey State Senate district 27",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:27"
+   ],
+   "officeIndices": [
+    38
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:28": {
+   "name": "New Jersey State Senate district 28",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:28"
+   ],
+   "officeIndices": [
+    37
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:29": {
+   "name": "New Jersey State Senate district 29",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:29"
+   ],
+   "officeIndices": [
+    36
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:3": {
+   "name": "New Jersey State Senate district 3",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:3"
+   ],
+   "officeIndices": [
+    14
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:30": {
+   "name": "New Jersey State Senate district 30",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:30"
+   ],
+   "officeIndices": [
+    26
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:31": {
+   "name": "New Jersey State Senate district 31",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:31"
+   ],
+   "officeIndices": [
+    25
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:32": {
+   "name": "New Jersey State Senate district 32",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:32"
+   ],
+   "officeIndices": [
+    24
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:33": {
+   "name": "New Jersey State Senate district 33",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:33"
+   ],
+   "officeIndices": [
+    23
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:34": {
+   "name": "New Jersey State Senate district 34",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:34"
+   ],
+   "officeIndices": [
+    22
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:35": {
+   "name": "New Jersey State Senate district 35",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:35"
+   ],
+   "officeIndices": [
+    31
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:36": {
+   "name": "New Jersey State Senate district 36",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:36"
+   ],
+   "officeIndices": [
+    30
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:37": {
+   "name": "New Jersey State Senate district 37",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:37"
+   ],
+   "officeIndices": [
+    29
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:38": {
+   "name": "New Jersey State Senate district 38",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:38"
+   ],
+   "officeIndices": [
+    28
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:39": {
+   "name": "New Jersey State Senate district 39",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:39"
+   ],
+   "officeIndices": [
+    27
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:4": {
+   "name": "New Jersey State Senate district 4",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:4"
+   ],
+   "officeIndices": [
+    15
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:40": {
+   "name": "New Jersey State Senate district 40",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:40"
+   ],
+   "officeIndices": [
+    21
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:5": {
+   "name": "New Jersey State Senate district 5",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:5"
+   ],
+   "officeIndices": [
+    16
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:6": {
+   "name": "New Jersey State Senate district 6",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:6"
+   ],
+   "officeIndices": [
+    17
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:7": {
+   "name": "New Jersey State Senate district 7",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:7"
+   ],
+   "officeIndices": [
+    18
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:8": {
+   "name": "New Jersey State Senate district 8",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:8"
+   ],
+   "officeIndices": [
+    19
+   ]
+  },
+  "ocd-division/country:us/state:nj/sldu:9": {
+   "name": "New Jersey State Senate district 9",
+   "alsoKnownAs": [
+    "ocd-division/country:us/state:nj/sldl:9"
+   ],
+   "officeIndices": [
+    20
+   ]
+  }
+ },
+ "offices": [
+  {
+   "name": "United States House of Representatives NJ-12",
+   "divisionId": "ocd-division/country:us/state:nj/cd:12",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    0
+   ]
+  },
+  {
+   "name": "United States House of Representatives NJ-10",
+   "divisionId": "ocd-division/country:us/state:nj/cd:10",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    1
+   ]
+  },
+  {
+   "name": "United States House of Representatives NJ-11",
+   "divisionId": "ocd-division/country:us/state:nj/cd:11",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    2
+   ]
+  },
+  {
+   "name": "United States House of Representatives NJ-02",
+   "divisionId": "ocd-division/country:us/state:nj/cd:2",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    3
+   ]
+  },
+  {
+   "name": "United States House of Representatives NJ-01",
+   "divisionId": "ocd-division/country:us/state:nj/cd:1",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    4
+   ]
+  },
+  {
+   "name": "United States House of Representatives NJ-04",
+   "divisionId": "ocd-division/country:us/state:nj/cd:4",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    5
+   ]
+  },
+  {
+   "name": "United States House of Representatives NJ-03",
+   "divisionId": "ocd-division/country:us/state:nj/cd:3",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    6
+   ]
+  },
+  {
+   "name": "United States House of Representatives NJ-06",
+   "divisionId": "ocd-division/country:us/state:nj/cd:6",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    7
+   ]
+  },
+  {
+   "name": "United States House of Representatives NJ-05",
+   "divisionId": "ocd-division/country:us/state:nj/cd:5",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    8
+   ]
+  },
+  {
+   "name": "United States House of Representatives NJ-08",
+   "divisionId": "ocd-division/country:us/state:nj/cd:8",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    9
+   ]
+  },
+  {
+   "name": "United States House of Representatives NJ-07",
+   "divisionId": "ocd-division/country:us/state:nj/cd:7",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    10
+   ]
+  },
+  {
+   "name": "United States House of Representatives NJ-09",
+   "divisionId": "ocd-division/country:us/state:nj/cd:9",
+   "levels": [
+    "country"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    11
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 1",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:1",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    12,
+    13
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 2",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:2",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    14,
+    15
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 3",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:3",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    16,
+    17
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 4",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:4",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    18,
+    19
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 5",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:5",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    20,
+    21
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 6",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:6",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    22,
+    23
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 7",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:7",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    24,
+    25
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 8",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:8",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    26,
+    27
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 9",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:9",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    28,
+    29
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 40",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:40",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    30,
+    31
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 34",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:34",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    32,
+    33
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 33",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:33",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    34,
+    35
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 32",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:32",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    36,
+    37
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 31",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:31",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    38,
+    39
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 30",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:30",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    40,
+    41
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 39",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:39",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    42,
+    43
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 38",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:38",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    44,
+    45
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 37",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:37",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    46,
+    47
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 36",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:36",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    48,
+    49
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 35",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:35",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    50,
+    51
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 23",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:23",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    52,
+    53
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 22",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:22",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    54,
+    55
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 21",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:21",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    56,
+    57
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 20",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:20",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    58,
+    59
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 29",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:29",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    60
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 28",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:28",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    61,
+    62
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 27",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:27",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    63,
+    64
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 26",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:26",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    65,
+    66
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 25",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:25",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    67,
+    68
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 24",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:24",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    69,
+    70
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 12",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:12",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    71,
+    72
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 11",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:11",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    73,
+    74
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 10",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:10",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    75,
+    76
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 19",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:19",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    77,
+    78
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 18",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:18",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    79,
+    80
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 17",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:17",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    81,
+    82
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 16",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:16",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    83,
+    84
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 15",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:15",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    85,
+    86
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 14",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:14",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    87,
+    88
+   ]
+  },
+  {
+   "name": "NJ State Assembly District 13",
+   "divisionId": "ocd-division/country:us/state:nj/sldu:13",
+   "levels": [
+    "administrativeArea1"
+   ],
+   "roles": [
+    "legislatorLowerBody"
+   ],
+   "officialIndices": [
+    89,
+    90
+   ]
+  }
+ ],
+ "officials": [
+  {
+   "name": "Bonnie Watson Coleman",
+   "address": [
+    {
+     "line1": "1535 Longworth House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 225-5801"
+   ],
+   "urls": [
+    "https://watsoncoleman.house.gov"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/W/W000822.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "RepBonnie"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepBonnie"
+    },
+    {
+     "type": "YouTube",
+     "id": "UCrxEaX0VKZKwg3930du2D5A"
+    },
+    {
+     "type": "GooglePlus",
+     "id": "107797056786997742871"
+    }
+   ]
+  },
+  {
+   "name": "Donald M. Payne Jr.",
+   "address": [
+    {
+     "line1": "132 Cannon House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 225-3436"
+   ],
+   "urls": [
+    "http://payne.house.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/P/P000604.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "DonaldPayneJr"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepDonaldPayne"
+    },
+    {
+     "type": "YouTube",
+     "id": "UCTG_SeYsOgbngjv1Donyu0w"
+    },
+    {
+     "type": "GooglePlus",
+     "id": "109392472986492101428"
+    }
+   ]
+  },
+  {
+   "name": "Rodney P. Frelinghuysen",
+   "address": [
+    {
+     "line1": "2306 Rayburn House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 225-5034"
+   ],
+   "urls": [
+    "http://frelinghuysen.house.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/F/F000372.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "rfrelinghuysen"
+    },
+    {
+     "type": "Twitter",
+     "id": "SRepRodney"
+    },
+    {
+     "type": "YouTube",
+     "id": "RepFrelinghuysen"
+    }
+   ]
+  },
+  {
+   "name": "Frank A. LoBiondo",
+   "address": [
+    {
+     "line1": "2427 Rayburn House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 225-6572"
+   ],
+   "urls": [
+    "http://lobiondo.house.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/L/L000554.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "FrankLoBiondo"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepLoBiondo"
+    },
+    {
+     "type": "YouTube",
+     "id": "USRepFrankLoBiondo"
+    }
+   ]
+  },
+  {
+   "name": "Donald Norcross",
+   "address": [
+    {
+     "line1": "1531 Longworth House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 225-6501"
+   ],
+   "urls": [
+    "http://norcross.house.gov/"
+   ],
+   "photoUrl": "http://norcross.house.gov/sites/norcross.house.gov/files/styles/congress_image_thumbnail/public/wysiwyg_uploaded/RepDonaldNorcross-official-cropped.png?itok=B82IemOx",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "DonaldNorcrossNJ"
+    },
+    {
+     "type": "Twitter",
+     "id": "DonaldNorcross"
+    },
+    {
+     "type": "GooglePlus",
+     "id": "104390795696661944114"
+    },
+    {
+     "type": "YouTube",
+     "id": "UC7kXK_PyDiOT8YrdP0jYZHw"
+    },
+    {
+     "type": "YouTube",
+     "id": "UCA4EkFYrSl7sk6RMHST2v1Q"
+    }
+   ]
+  },
+  {
+   "name": "Christopher H. Smith",
+   "address": [
+    {
+     "line1": "2373 Rayburn House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 225-3765"
+   ],
+   "urls": [
+    "http://chrissmith.house.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/S/S000522.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "371621772908416"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepChrisSmith"
+    },
+    {
+     "type": "YouTube",
+     "id": "USRepChrisSmith"
+    }
+   ]
+  },
+  {
+   "name": "Thomas MacArthur",
+   "address": [
+    {
+     "line1": "506 Cannon House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 225-4765"
+   ],
+   "urls": [
+    "https://macarthur.house.gov"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/M/M001193.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "CongressmanTomMacArthur"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepTomMacArthur"
+    },
+    {
+     "type": "YouTube",
+     "id": "UCLD7s-g8XgSd_wvuUWATKkQ"
+    }
+   ]
+  },
+  {
+   "name": "Frank Pallone Jr.",
+   "address": [
+    {
+     "line1": "237 Cannon House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 225-4671"
+   ],
+   "urls": [
+    "http://pallone.house.gov/"
+   ],
+   "photoUrl": "http://pallone.house.gov/sites/pallone.house.gov/files/resize/images/FP.Pic.Thumbnail1-200x300.JPG",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "RepFrankPallone"
+    },
+    {
+     "type": "Twitter",
+     "id": "frankpallone"
+    },
+    {
+     "type": "YouTube",
+     "id": "RepFrankPallone"
+    },
+    {
+     "type": "GooglePlus",
+     "id": "108427022217390804692"
+    }
+   ]
+  },
+  {
+   "name": "Josh Gottheimer",
+   "address": [
+    {
+     "line1": "213 Cannon House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 225-4465"
+   ],
+   "urls": [
+    "https://gottheimer.house.gov"
+   ],
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "RepJoshG"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepJoshG"
+    }
+   ]
+  },
+  {
+   "name": "Albio Sires",
+   "address": [
+    {
+     "line1": "2342 Rayburn House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 225-7919"
+   ],
+   "urls": [
+    "http://sires.house.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/S/S001165.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "81058818750"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepSires"
+    },
+    {
+     "type": "YouTube",
+     "id": "RepSiresNJ13"
+    },
+    {
+     "type": "GooglePlus",
+     "id": "101006335548280894554"
+    }
+   ]
+  },
+  {
+   "name": "Leonard Lance",
+   "address": [
+    {
+     "line1": "2352 Rayburn House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(202) 225-5361"
+   ],
+   "urls": [
+    "http://lance.house.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/L/L000567.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "CongressmanLance"
+    },
+    {
+     "type": "Twitter",
+     "id": "RepLanceNJ7"
+    },
+    {
+     "type": "YouTube",
+     "id": "CongressmanLance"
+    },
+    {
+     "type": "GooglePlus",
+     "id": "113235145943037869046"
+    }
+   ]
+  },
+  {
+   "name": "Bill Pascrell Jr.",
+   "address": [
+    {
+     "line1": "2370 Rayburn House Office Building",
+     "city": "Washington",
+     "state": "DC",
+     "zip": "20515"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(202) 225-5751"
+   ],
+   "urls": [
+    "http://pascrell.house.gov/"
+   ],
+   "photoUrl": "http://bioguide.congress.gov/bioguide/photo/P/P000096.jpg",
+   "channels": [
+    {
+     "type": "Facebook",
+     "id": "pascrell"
+    },
+    {
+     "type": "Twitter",
+     "id": "BillPascrell"
+    },
+    {
+     "type": "YouTube",
+     "id": "RepPascrell"
+    }
+   ]
+  },
+  {
+   "name": "R. Bruce Land",
+   "address": [
+    {
+     "line1": "CH NJ 08210",
+     "line2": "211 S MAIN ST",
+     "city": "Cape May",
+     "state": "",
+     "zip": ""
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(609) 465-0700"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=382"
+   ]
+  },
+  {
+   "name": "Bob Andrzejczak",
+   "address": [
+    {
+     "line1": "CH NJ 08210",
+     "line2": "211 S MAIN ST",
+     "city": "Cape May",
+     "state": "",
+     "zip": ""
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(609) 465-0700"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=357"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/andrzejczak_color.jpg"
+  },
+  {
+   "name": "Chris A. Brown",
+   "address": [
+    {
+     "line1": "2021 NEW RD",
+     "city": "Linwood",
+     "state": "NJ",
+     "zip": "08221"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(609) 677-8266"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=337"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/brown_chris_color.jpg"
+  },
+  {
+   "name": "Vincent Mazzeo",
+   "address": [
+    {
+     "line1": "507 TILTON RD,",
+     "city": "Northfield",
+     "state": "NJ",
+     "zip": "08225"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(609) 383-1388"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=368"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/mazzeo_color.jpg"
+  },
+  {
+   "name": "John J. Burzichelli",
+   "address": [
+    {
+     "line1": "935 KINGS HWY",
+     "city": "West Deptford",
+     "state": "NJ",
+     "zip": "08086"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(856) 251-9801"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=200"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/burzichelli_color.jpg"
+  },
+  {
+   "name": "Adam J. Taliaferro",
+   "address": [
+    {
+     "line1": "199 E BROADWAY",
+     "city": "Salem",
+     "state": "NJ",
+     "zip": "08079"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(856) 339-0808"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=372"
+   ]
+  },
+  {
+   "name": "Gabriela M. Mosquera",
+   "address": [
+    {
+     "line1": "129 JOHNSON RD",
+     "city": "",
+     "state": "NJ",
+     "zip": "08012"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(856) 232-6700"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=356"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/mosquera_color.jpg"
+  },
+  {
+   "name": "Paul D. Moriarty",
+   "address": [
+    {
+     "line1": "129 JOHNSON RD",
+     "city": "",
+     "state": "NJ",
+     "zip": "08012"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(856) 232-6700"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=250"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/moriarty_color.jpg"
+  },
+  {
+   "name": "Arthur Barclay",
+   "address": [
+    {
+     "line1": "130 BLACK HORSE PIKE STE D-3",
+     "city": "Audubon",
+     "state": "NJ",
+     "zip": "08106"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(856) 547-4800"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=377"
+   ]
+  },
+  {
+   "name": "Patricia Egan Jones",
+   "address": [
+    {
+     "line1": "130 BLACK HORSE PIKE STE D-3",
+     "city": "Audubon",
+     "state": "NJ",
+     "zip": "08106"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(856) 547-4800"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=375"
+   ]
+  },
+  {
+   "name": "Pamela R. Lampitt",
+   "address": [
+    {
+     "line1": "1101 LAUREL OAK RD",
+     "city": "Voorhees Township",
+     "state": "NJ",
+     "zip": "08043"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(856) 435-1247"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=251"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/lampitt_color.jpg"
+  },
+  {
+   "name": "Louis D. Greenwald",
+   "address": [
+    {
+     "line1": "1101 LAUREL OAK RD",
+     "city": "Voorhees Township",
+     "state": "NJ",
+     "zip": "08043"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(856) 435-1247"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=155"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/greenwald_color.jpg"
+  },
+  {
+   "name": "Herb Conaway, Jr.",
+   "address": [
+    {
+     "line1": "8008 ROUTE 130",
+     "city": "Delran",
+     "state": "NJ",
+     "zip": "08075"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(856) 461-3997"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=186"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/conaway_color.jpg"
+  },
+  {
+   "name": "Troy Singleton",
+   "address": [
+    {
+     "line1": "400 N CHURCH ST",
+     "city": "Moorestown",
+     "state": "NJ",
+     "zip": "08057"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(856) 234-2790"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=339"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/singleton_color.jpg"
+  },
+  {
+   "name": "Joe Howarth",
+   "party": "Republican",
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=378"
+   ]
+  },
+  {
+   "name": "Maria Rodriguez-Gregg",
+   "address": [
+    {
+     "line1": "NJ 08055",
+     "line2": "70 176 ROUTE",
+     "city": "",
+     "state": "",
+     "zip": ""
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(609) 654-1498"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=360"
+   ]
+  },
+  {
+   "name": "Brian E. Rumpf",
+   "address": [
+    {
+     "line1": "620 LACEY RD,",
+     "city": "",
+     "state": "NJ",
+     "zip": "08731"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(609) 693-6700"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=228"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/rumpf_color.jpg"
+  },
+  {
+   "name": "DiAnne C. Gove",
+   "address": [
+    {
+     "line1": "620 LACEY RD,",
+     "city": "",
+     "state": "NJ",
+     "zip": "08731"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(609) 693-6700"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=318"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/gove_color.jpg"
+  },
+  {
+   "name": "Scott T. Rumana",
+   "address": [
+    {
+     "line1": "155 ROUTE 46 W",
+     "city": "Wayne",
+     "state": "NJ",
+     "zip": "07470"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(973) 237-1362"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=297"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/rumana_color.jpg"
+  },
+  {
+   "name": "David C. Russo",
+   "address": [
+    {
+     "line1": "22 PATERSON AVE,",
+     "city": "Midland Park",
+     "state": "NJ",
+     "zip": "07432"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(201) 444-9719"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=124"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/russo_color.jpg"
+  },
+  {
+   "name": "Sheila Y. Oliver",
+   "address": [
+    {
+     "line1": "15-33 HALSTED ST",
+     "city": "East Orange",
+     "state": "NJ",
+     "zip": "07018"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(973) 395-1166"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=242"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/oliver_color.jpg"
+  },
+  {
+   "name": "Thomas P. Giblin",
+   "address": [
+    {
+     "line1": "1333 BROAD ST,",
+     "city": "Clifton",
+     "state": "NJ",
+     "zip": "07013"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(973) 779-3125"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=257"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/giblin_color.jpg"
+  },
+  {
+   "name": "Annette Chaparro",
+   "address": [
+    {
+     "line1": "80 RIVER ST",
+     "city": "Hoboken",
+     "state": "NJ",
+     "zip": "07030"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(201) 683-7917"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=385"
+   ]
+  },
+  {
+   "name": "Raj Mukherji",
+   "address": [
+    {
+     "line1": "433 PALISADE AVE,",
+     "city": "Jersey City",
+     "state": "NJ",
+     "zip": "07307"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(201) 626-4000"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=364"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/mukherji_color.jpg"
+  },
+  {
+   "name": "Angelica M. Jimenez",
+   "address": [
+    {
+     "line1": "5600 KENNEDY BLVD W",
+     "city": "West New York",
+     "state": "NJ",
+     "zip": "07093"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(201) 223-4247"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=344"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/jimenez_color.jpg"
+  },
+  {
+   "name": "Vincent Prieto",
+   "address": [
+    {
+     "line1": "1 HARMON PLZ",
+     "city": "Secaucus",
+     "state": "NJ",
+     "zip": "07094"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(201) 770-1303"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=247"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/prieto_color.jpg"
+  },
+  {
+   "name": "Nicholas Chiaravalloti",
+   "party": "Democratic",
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=384"
+   ]
+  },
+  {
+   "name": "Angela V. McKnight",
+   "address": [
+    {
+     "line1": "2324 JOHN F KENNEDY BLVD,",
+     "city": "Jersey City",
+     "state": "NJ",
+     "zip": "07304"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(201) 360-2502"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=383"
+   ]
+  },
+  {
+   "name": "Sean T. Kean",
+   "address": [
+    {
+     "line1": "1955 HIGHWAY 34,",
+     "city": "Wall Township",
+     "state": "NJ",
+     "zip": "07719"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(732) 974-0400"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=333"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/kean_sean_color.jpg"
+  },
+  {
+   "name": "David P. Rible",
+   "address": [
+    {
+     "line1": "1955 HIGHWAY 34,",
+     "city": "Wall Township",
+     "state": "NJ",
+     "zip": "07719"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(732) 974-0400"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=275"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/rible_color.jpg"
+  },
+  {
+   "name": "Robert Auth",
+   "address": [
+    {
+     "line1": "1069 RINGWOOD AVE",
+     "city": "",
+     "state": "NJ",
+     "zip": "07420"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(862) 248-0491"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=366"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/auth_color.jpg"
+  },
+  {
+   "name": "Holly Schepisi",
+   "address": [
+    {
+     "line1": "287 KINDERKAMACK RD,",
+     "city": "Westwood",
+     "state": "NJ",
+     "zip": "07675"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(201) 666-0881"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=350"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/schepisi_color.jpg"
+  },
+  {
+   "name": "Joseph A. Lagana",
+   "address": [
+    {
+     "line1": "205 ROBIN RD",
+     "city": "Paramus",
+     "state": "NJ",
+     "zip": "07652"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(201) 576-9199"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=367"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/lagana_color.jpg"
+  },
+  {
+   "name": "Tim Eustace",
+   "address": [
+    {
+     "line1": "205 ROBIN RD",
+     "city": "Paramus",
+     "state": "NJ",
+     "zip": "07652"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(201) 576-9199"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=369"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/eustace_color.jpg"
+  },
+  {
+   "name": "Valerie Vainieri Huttle",
+   "address": [
+    {
+     "line1": "1 ENGLE ST",
+     "city": "Englewood",
+     "state": "NJ",
+     "zip": "07631"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(201) 541-1118"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=259"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/huttle_color.jpg"
+  },
+  {
+   "name": "Gordon M. Johnson",
+   "address": [
+    {
+     "line1": "545 CEDAR LN,",
+     "city": "Teaneck",
+     "state": "NJ",
+     "zip": "07666"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(201) 530-0469"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=214"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/johnson_color.jpg"
+  },
+  {
+   "name": "Gary S. Schaer",
+   "address": [
+    {
+     "line1": "1 HOWE AVE",
+     "city": "Passaic",
+     "state": "NJ",
+     "zip": "07055"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(973) 249-3665"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=258"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/schaer_color.jpg"
+  },
+  {
+   "name": "Marlene Caride",
+   "address": [
+    {
+     "line1": "613 BERGEN BLVD,",
+     "city": "Ridgefield",
+     "state": "NJ",
+     "zip": "07657"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(201) 943-0615"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=348"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/caride_color.jpg"
+  },
+  {
+   "name": "Shavonda E. Sumter",
+   "address": [
+    {
+     "line1": "191 MARKET ST,",
+     "city": "Paterson",
+     "state": "NJ",
+     "zip": "07505"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(973) 925-7061"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=346"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/sumter_color.jpg"
+  },
+  {
+   "name": "Benjie E. Wimberly",
+   "address": [
+    {
+     "line1": "191 MARKET ST,",
+     "city": "Paterson",
+     "state": "NJ",
+     "zip": "07505"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(973) 925-7061"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=347"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/wimberly_color.jpg"
+  },
+  {
+   "name": "Erik Peterson",
+   "address": [
+    {
+     "line1": "178 CENTER ST",
+     "city": "Clinton",
+     "state": "NJ",
+     "zip": "08809"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(908) 238-0251"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=320"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/peterson_color.jpg"
+  },
+  {
+   "name": "John DiMaio",
+   "address": [
+    {
+     "line1": "245 ROUTE 22 STE 208",
+     "city": "Bridgewater",
+     "state": "NJ",
+     "zip": "08807"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(908) 722-1365"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=313"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/dimaio_color.jpg"
+  },
+  {
+   "name": "Jerry Green",
+   "address": [
+    {
+     "line1": "200 W 2ND ST",
+     "city": "Plainfield",
+     "state": "NJ",
+     "zip": "07060"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(908) 561-5757"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=54"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/green_color.jpg"
+  },
+  {
+   "name": "James J. Kennedy",
+   "address": [
+    {
+     "line1": "34 E CHERRY ST,",
+     "city": "Rahway",
+     "state": "NJ",
+     "zip": "07065"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(732) 943-2660"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=381"
+   ]
+  },
+  {
+   "name": "Nancy F. Munoz",
+   "address": [
+    {
+     "line1": "57 UNION PL",
+     "city": "Summit",
+     "state": "NJ",
+     "zip": "07901"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(908) 918-0414"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=314"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/munoz_color.jpg"
+  },
+  {
+   "name": "Jon M. Bramnick",
+   "address": [
+    {
+     "line1": "251 NORTH AVE W",
+     "city": "Westfield",
+     "state": "NJ",
+     "zip": "07090"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(908) 232-2073"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=222"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/bramnick_color.jpg"
+  },
+  {
+   "name": "Annette Quijano",
+   "address": [
+    {
+     "line1": "65 JEFFERSON AVE",
+     "city": "Elizabeth",
+     "state": "NJ",
+     "zip": "07201"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(908) 327-9119"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=309"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/quijano_color.jpg"
+  },
+  {
+   "name": "Jamel C. Holley",
+   "address": [
+    {
+     "line1": "985 STUYVESANT AVE,",
+     "city": "Union",
+     "state": "NJ",
+     "zip": "07083"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(908) 624-0880"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=374"
+   ]
+  },
+  {
+   "name": "Eliana Pintor Marin",
+   "address": [
+    {
+     "line1": "263 LAFAYETTE ST",
+     "city": "Newark",
+     "state": "NJ",
+     "zip": "07105"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(973) 589-0713"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=362"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/pintor_marin_color.jpg"
+  },
+  {
+   "name": "Cleopatra G. Tucker",
+   "address": [
+    {
+     "line1": "400 LYONS AVE,",
+     "city": "Newark",
+     "state": "NJ",
+     "zip": "07112"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(973) 926-4320"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=285"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/tucker_color.jpg"
+  },
+  {
+   "name": "Ralph R. Caputo",
+   "address": [
+    {
+     "line1": "148-152 FRANKLIN ST,",
+     "city": "Belleville",
+     "state": "NJ",
+     "zip": "07109"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(973) 450-0484"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=286"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/caputo_color.jpg"
+  },
+  {
+   "name": "Mila M. Jasey",
+   "address": [
+    {
+     "line1": "511 VALLEY ST,",
+     "city": "Maplewood",
+     "state": "NJ",
+     "zip": "07040"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(973) 762-1886"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=284"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/jasey_color.jpg"
+  },
+  {
+   "name": "John F. McKeon",
+   "address": [
+    {
+     "line1": "250 MAIN ST,",
+     "city": "Madison",
+     "state": "NJ",
+     "zip": "07940"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(973) 377-1606"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=207"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/mckeon_color.jpg"
+  },
+  {
+   "name": "BettyLou DeCroce",
+   "address": [
+    {
+     "line1": "1055 PARSIPPANY BLVD",
+     "city": "",
+     "state": "NJ",
+     "zip": "07054"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(973) 265-0057"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=355"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/decroce_betty_lou_color.jpg"
+  },
+  {
+   "name": "Jay Webber",
+   "address": [
+    {
+     "line1": "1055 PARSIPPANY BLVD",
+     "city": "",
+     "state": "NJ",
+     "zip": "07054"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(973) 265-0057"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=283"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/webber_color.jpg"
+  },
+  {
+   "name": "Anthony M. Bucco",
+   "address": [
+    {
+     "line1": "1040 ROUTE 10 W",
+     "city": "Randolph",
+     "state": "NJ",
+     "zip": "07869"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(973) 927-2526"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=321"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/bucco_a_m_color.jpg"
+  },
+  {
+   "name": "Michael Patrick Carroll",
+   "address": [
+    {
+     "line1": "146 SPEEDWELL AVE,",
+     "city": "Morris Plains",
+     "state": "NJ",
+     "zip": "07950"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(973) 539-8113"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=164"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/carroll_color.jpg"
+  },
+  {
+   "name": "Parker Space",
+   "address": [
+    {
+     "line1": "1 WILSON DR",
+     "city": "Sparta Township",
+     "state": "NJ",
+     "zip": "07871"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(973) 300-0200"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=358"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/space_color.jpg"
+  },
+  {
+   "name": "Gail Phoebus",
+   "address": [
+    {
+     "line1": "1 WILSON DR",
+     "city": "Sparta Township",
+     "state": "NJ",
+     "zip": "07871"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(973) 300-0200"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=376"
+   ]
+  },
+  {
+   "name": "Ronald S. Dancer",
+   "address": [
+    {
+     "line1": "405 ROUTE 539",
+     "city": "",
+     "state": "NJ",
+     "zip": "08514"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(609) 758-0205"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=352"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/dancer_color.jpg"
+  },
+  {
+   "name": "Robert D. Clifton",
+   "address": [
+    {
+     "line1": "935 HIGHWAY 34",
+     "city": "Matawan",
+     "state": "NJ",
+     "zip": "07747"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(732) 970-6386"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=342"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/clifton_color.jpg"
+  },
+  {
+   "name": "Joann Downey",
+   "address": [
+    {
+     "line1": "802 W PARK AVE",
+     "city": "",
+     "state": "NJ",
+     "zip": "07712"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(732) 695-3371"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=380"
+   ]
+  },
+  {
+   "name": "Eric Houghtaling",
+   "address": [
+    {
+     "line1": "802 W PARK AVE",
+     "city": "",
+     "state": "NJ",
+     "zip": "07712"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(732) 695-3371"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=379"
+   ]
+  },
+  {
+   "name": "Gregory P. McGuckin",
+   "address": [
+    {
+     "line1": "852 HIGHWAY 70,",
+     "city": "Brick",
+     "state": "NJ",
+     "zip": "08724"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(732) 840-9028"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=341"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/mcguckin_color.jpg"
+  },
+  {
+   "name": "David W. Wolfe",
+   "address": [
+    {
+     "line1": "852 HIGHWAY 70,",
+     "city": "Brick",
+     "state": "NJ",
+     "zip": "08724"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(732) 840-9028"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=31"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/wolfe_color.jpg"
+  },
+  {
+   "name": "Craig J. Coughlin",
+   "address": [
+    {
+     "line1": "569 RAHWAY AVE,",
+     "city": "Woodbridge Township",
+     "state": "NJ",
+     "zip": "07095"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(732) 855-7441"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=319"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/coughlin_color.jpg"
+  },
+  {
+   "name": "John S. Wisniewski",
+   "address": [
+    {
+     "line1": "132 MAIN ST",
+     "city": "Sayreville",
+     "state": "NJ",
+     "zip": "08872"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(732) 432-8460"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=160"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/wisniewski_color.jpg"
+  },
+  {
+   "name": "Robert Karabinchak",
+   "party": "Democratic"
+  },
+  {
+   "name": "Nancy J. Pinkin",
+   "address": [
+    {
+     "line1": "3 STEPHENVILLE PKWY",
+     "city": "Edison",
+     "state": "NJ",
+     "zip": "08820"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(732) 548-1406"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=361"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/pinkin_color.jpg"
+  },
+  {
+   "name": "Joe Danielsen",
+   "address": [
+    {
+     "line1": "334 ELIZABETH AVE,",
+     "city": "",
+     "state": "NJ",
+     "zip": "08873"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(732) 247-3999"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=370"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/danielsen.jpg"
+  },
+  {
+   "name": "Joseph V. Egan",
+   "address": [
+    {
+     "line1": "100 BAYARD ST,",
+     "city": "New Brunswick",
+     "state": "NJ",
+     "zip": "08901"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(732) 249-4550"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=201"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/egan_color.jpg"
+  },
+  {
+   "name": "Jack M. Ciattarelli",
+   "address": [
+    {
+     "line1": "50 DIVISION ST",
+     "city": "Somerville",
+     "state": "NJ",
+     "zip": "08876"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(908) 450-7064"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=343"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/ciattarelli_color.jpg"
+  },
+  {
+   "name": "Andrew Zwicker",
+   "address": [
+    {
+     "line1": "23 ORCHARD RD",
+     "city": "",
+     "state": "NJ",
+     "zip": "08558"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(609) 454-3147"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=386"
+   ]
+  },
+  {
+   "name": "Elizabeth Maher Muoio",
+   "address": [
+    {
+     "line1": "144 W STATE ST,",
+     "city": "Trenton",
+     "state": "NJ",
+     "zip": "08608"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(609) 571-9638"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=373"
+   ]
+  },
+  {
+   "name": "Reed Gusciora",
+   "address": [
+    {
+     "line1": "144 W STATE ST,",
+     "city": "Trenton",
+     "state": "NJ",
+     "zip": "08608"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(609) 571-9638"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=158"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/gusciora_color.jpg"
+  },
+  {
+   "name": "Wayne P. DeAngelo",
+   "address": [
+    {
+     "line1": "4621A NOTTINGHAM WAY,",
+     "city": "Hamilton Township",
+     "state": "NJ",
+     "zip": "08690"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(609) 631-7501"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=279"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/deangelo_color.jpg"
+  },
+  {
+   "name": "Daniel R. Benson",
+   "address": [
+    {
+     "line1": "3691A NOTTINGHAM WAY",
+     "line2": "HAMILTON SQ",
+     "city": "",
+     "state": "NJ",
+     "zip": "08690"
+    }
+   ],
+   "party": "Democratic",
+   "phones": [
+    "(609) 631-0198"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=332"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/benson_color.jpg"
+  },
+  {
+   "name": "Declan J. O'Scanlon, Jr.",
+   "address": [
+    {
+     "line1": "32 MONMOUTH ST",
+     "city": "Red Bank",
+     "state": "NJ",
+     "zip": "07701"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(732) 933-1591"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=353"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/oscanlon_color.jpg"
+  },
+  {
+   "name": "Amy H. Handlin",
+   "address": [
+    {
+     "line1": "225 ROUTE 35",
+     "city": "Red Bank",
+     "state": "NJ",
+     "zip": "07701"
+    }
+   ],
+   "party": "Republican",
+   "phones": [
+    "(732) 383-7820"
+   ],
+   "urls": [
+    "http://www.njleg.state.nj.us/members/bio.asp?Leg=254"
+   ],
+   "photoUrl": "http://www.njleg.state.nj.us/members/memberphotos/handlin_color.jpg"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+    font:Georgia;
+}
+
+div.legislators-general {
+	/*background-color: #CBEEF3;*/
+	width: 100%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+button.legislators-general-name{
+    background-color: #1C7293; 
+    font-size: 18px;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+button.legislators-general-name.active, button.legislators-general-name:hover {
+    background-color: #9EB3C2;
+}
+
+button.gop-button {
+    background-color:red;
+    color:white;
+    border:none;
+    font:Georgia;
+}
+
+button.dem-button {
+    background-color:blue;
+    color:white;
+    border:none;
+    font:Georgia;
+}
+
+
+div.legislators-detail-container {
+/*    padding: 0 5px;
+*/  background-color: white;
+    padding:10px;
+	width:100%;
+    height:500px;
+    display:none;
+}
+
+div.legislators-detail-bio {
+    float:left;
+    padding:5px;
+    font:Georgia;
+	background-color: #065A82;
+    width:210px;
+    height:395px;
+	color:#EAEBF0;
+
+}
+
+div.legislators-detail-history {
+    margin-left: 100px;
+    font:Georgia;
+    background-color: #ffffff;
+    color:#065A82;
+    padding:5px;
+    width:70%;
+    height:300px;
+/*    display:table-cell;
+*/
+}
+
+div.detail-table {
+    display:table-row;
+    padding:5px;
+}
+
+.detail-table p {
+    display:table-cell;
+    padding:5px;
+}
+
+.vote-positions table{
+    width:70%;
+    text-align: left;
+    border-collapse: collapse;
+    padding:2px;
+
+}
+
+.vote-positions th, td{
+    border-bottom: 1px solid #ddd;
+}
+
+.vote-positions tr {
+    height:40px;
+}
+
+.vote-positions tr:nth-child(even) {
+    background-color: #D2DCE3;
+}
+
+.vote-positions tr:hover {
+    background-color: #B8C7D2;
+}
+
+.vote-positions th {
+    background-color: #065A82;
+    color: #EAEBF0;
+    height:10px;
+}
+
+.vote-positions td {
+    padding:10px;
+}
+
+a {
+    color:#EAEBF0;
+}

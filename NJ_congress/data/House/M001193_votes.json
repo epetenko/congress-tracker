@@ -1,0 +1,1789 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "M001193",
+         "total_votes": "100",
+         "offset": "0",
+         "votes": [
+           {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "158",
+           "bill": {
+             "number": "H R 720",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+             "title": "Lawsuit Abuse Reduction Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Lawsuit Abuse Reduction Act of 2017",
+           "question": "On Passage",
+           "date": "2017-03-10",
+           "time": "11:29:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "157",
+           "bill": {
+             "number": "H R 720",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+             "title": "Lawsuit Abuse Reduction Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Lawsuit Abuse Reduction Act of 2017",
+           "question": "On Motion to Recommit with Instructions",
+           "date": "2017-03-10",
+           "time": "11:18:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "156",
+           "bill": {
+             "number": "H R 720",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+             "title": "Lawsuit Abuse Reduction Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Lawsuit Abuse Reduction Act of 2017",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-10",
+           "time": "11:02:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "155",
+           "bill": {
+             "number": "H R 720",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+             "title": "Lawsuit Abuse Reduction Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Lawsuit Abuse Reduction Act of 2017",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-10",
+           "time": "10:58:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "154",
+           "bill": {
+             "number": "H R 720",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+             "title": "Lawsuit Abuse Reduction Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Lawsuit Abuse Reduction Act of 2017",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-10",
+           "time": "10:53:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "153",
+           "bill": {
+             "number": "H R 720",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr720.json",
+             "title": "Lawsuit Abuse Reduction Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Lawsuit Abuse Reduction Act of 2017",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-10",
+           "time": "10:49:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "152",
+           "bill": {
+             "number": "H R 725",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr725.json",
+             "title": "Innocent Party Protection Act",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Innocent Party Protection Act",
+           "question": "On Passage",
+           "date": "2017-03-09",
+           "time": "19:19:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "151",
+           "bill": {
+             "number": "H R 725",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr725.json",
+             "title": "Innocent Party Protection Act",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Innocent Party Protection Act",
+           "question": "On Motion to Recommit with Instructions",
+           "date": "2017-03-09",
+           "time": "19:14:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "150",
+           "bill": {
+             "number": "H R 725",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr725.json",
+             "title": "Innocent Party Protection Act",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Innocent Party Protection Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-09",
+           "time": "19:02:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "149",
+           "bill": {
+             "number": "H R 725",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr725.json",
+             "title": "Innocent Party Protection Act",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Innocent Party Protection Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-09",
+           "time": "18:59:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "148",
+           "bill": {
+             "number": "H R 985",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+             "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Fairness in Class Action Litigation Act",
+           "question": "On Passage",
+           "date": "2017-03-09",
+           "time": "18:52:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "147",
+           "bill": {
+             "number": "H R 985",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+             "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Fairness in Class Action Litigation Act",
+           "question": "On Motion to Recommit with Instructions",
+           "date": "2017-03-09",
+           "time": "18:46:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "146",
+           "bill": {
+             "number": "H R 985",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+             "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Espaillat of New York Part B Amendment No. 8",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-09",
+           "time": "18:28:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "145",
+           "bill": {
+             "number": "H R 985",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+             "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Jackson Lee of Texas Part B Amendment No. 7",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-09",
+           "time": "18:25:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "144",
+           "bill": {
+             "number": "H R 985",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+             "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Conyers of Michigan Part B Amendment No. 6",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-09",
+           "time": "18:21:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "143",
+           "bill": {
+             "number": "H R 985",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+             "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Johnson of Georgia Part B Amendment No. 5",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-09",
+           "time": "18:18:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "142",
+           "bill": {
+             "number": "H R 985",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+             "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Soto of Florida Part B Amendment No. 4",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-09",
+           "time": "18:15:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "141",
+           "bill": {
+             "number": "H R 985",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+             "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Deutch of Florida Part B Amendment No. 3",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-09",
+           "time": "18:11:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "140",
+           "bill": {
+             "number": "H R 985",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr985.json",
+             "title": "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2017",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Deutch of Florida Part B Amendment No. 2",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-09",
+           "time": "18:07:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "139",
+           "bill": {
+             "number": "H RES 180",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres180.json",
+             "title": "Providing for consideration of the bill (H.R. 720) to amend Rule 11 of the Federal Rules of Civil Procedure to improve attorney accountability, and for other purposes, and providing for consideration of the bill (H.R. 985) to amend the procedures used in Federal court class actions and multidistrict litigation proceedings to assure fairer, more efficient outcomes for claimants and defendants, and for other purposes.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.R. 720, the Lawsuit Abuse Reduction Act of 2017; and providing for consideration of H.R. 985, the Fairness in Class Action Litigation Act of 2017",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-03-09",
+           "time": "14:51:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "138",
+           "bill": {
+             "number": "H RES 180",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres180.json",
+             "title": "Providing for consideration of the bill (H.R. 720) to amend Rule 11 of the Federal Rules of Civil Procedure to improve attorney accountability, and for other purposes, and providing for consideration of the bill (H.R. 985) to amend the procedures used in Federal court class actions and multidistrict litigation proceedings to assure fairer, more efficient outcomes for claimants and defendants, and for other purposes.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.R. 720, the Lawsuit Abuse Reduction Act of 2017; and providing for consideration of H.R. 985, the Fairness in Class Action Litigation Act of 2017",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-03-09",
+           "time": "14:42:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "137",
+           "bill": {
+           },
+           "description": "",
+           "question": "On Motion to Adjourn",
+           "date": "2017-03-08",
+           "time": "17:45:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "136",
+           "bill": {
+             "number": "H R 1301",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1301.json",
+             "title": "Department of Defense Appropriations Act, 2017",
+             "latest_action": "Received in the Senate."
+           },
+           "description": "Department of Defense Appropriations Act, 2017",
+           "question": "On Passage",
+           "date": "2017-03-08",
+           "time": "17:19:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "135",
+           "bill": {
+           },
+           "description": "",
+           "question": "On Motion to Adjourn",
+           "date": "2017-03-08",
+           "time": "16:56:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "134",
+           "bill": {
+           },
+           "description": "",
+           "question": "On Motion to Adjourn",
+           "date": "2017-03-08",
+           "time": "15:33:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "133",
+           "bill": {
+             "number": "H RES 174",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres174.json",
+             "title": "Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes.",
+             "latest_action": "Placed on the House Calendar, Calendar No. 16."
+           },
+           "description": "Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-03-08",
+           "time": "15:16:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "132",
+           "bill": {
+           },
+           "description": "",
+           "question": "On Motion to Adjourn",
+           "date": "2017-03-08",
+           "time": "15:09:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "131",
+           "bill": {
+             "number": "H RES 174",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres174.json",
+             "title": "Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes.",
+             "latest_action": "Placed on the House Calendar, Calendar No. 16."
+           },
+           "description": "Providing for consideration of the bill (H.R. 1301) making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-03-08",
+           "time": "14:51:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "130",
+           "bill": {
+             "number": "H RES 175",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres175.json",
+             "title": "Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder.",
+             "latest_action": "Placed on the House Calendar, Calendar No. 17."
+           },
+           "description": "Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-03-08",
+           "time": "14:44:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "129",
+           "bill": {
+             "number": "H RES 175",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres175.json",
+             "title": "Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder.",
+             "latest_action": "Placed on the House Calendar, Calendar No. 17."
+           },
+           "description": "Providing for consideration of the bill (H.R. 725) to amend title 28, United States Code, to prevent fraudulent joinder",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-03-08",
+           "time": "14:36:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "128",
+           "bill": {
+           },
+           "description": "",
+           "question": "Table Appeal of the Ruling of the Chair",
+           "date": "2017-03-07",
+           "time": "19:29:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "127",
+           "bill": {
+             "number": "H R 1362",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1362.json",
+             "title": "To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, American Samoa, the Faleomavaega Eni Fa&#39;aua&#39;a Hunkin VA Clinic.",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Veterans&#39; Affairs."
+           },
+           "description": "To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, American Samoa, the Faleomavaega Eni Fa’aua’a Hunkin VA Clinic",
+           "question": "On Motion to Suspend the Rules and Pass",
+           "date": "2017-03-07",
+           "time": "18:56:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "126",
+           "bill": {
+             "number": "H R 1004",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1004.json",
+             "title": "Regulatory Integrity Act of 2017",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "Regulatory Integrity Act of 2017",
+           "question": "On Passage",
+           "date": "2017-03-02",
+           "time": "11:14:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "125",
+           "bill": {
+             "number": "H R 1004",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1004.json",
+             "title": "Regulatory Integrity Act of 2017",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "Regulatory Integrity Act of 2017",
+           "question": "On Motion to Recommit with Instructions",
+           "date": "2017-03-02",
+           "time": "11:07:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "124",
+           "bill": {
+             "number": "H R 1004",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1004.json",
+             "title": "Regulatory Integrity Act of 2017",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "Regulatory Integrity Act of 2017",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-02",
+           "time": "10:50:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "123",
+           "bill": {
+             "number": "H R 1004",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1004.json",
+             "title": "Regulatory Integrity Act of 2017",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "Regulatory Integrity Act of 2017",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-02",
+           "time": "10:43:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "122",
+           "bill": {
+             "number": "H R 1004",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1004.json",
+             "title": "Regulatory Integrity Act of 2017",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "Regulatory Integrity Act of 2017",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-02",
+           "time": "10:38:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "121",
+           "bill": {
+             "number": "H J RES 83",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres83.json",
+             "title": "Disapproving the rule submitted by the Department of Labor relating to &quot;Clarification of Employer&#39;s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness&quot;.",
+             "latest_action": "Received in the Senate."
+           },
+           "description": "Disapproving the rule submitted by the Department of Labor relating to “Clarification of Employer’s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness”",
+           "question": "On Passage",
+           "date": "2017-03-01",
+           "time": "18:25:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "120",
+           "bill": {
+             "number": "H R 1009",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1009.json",
+             "title": "OIRA Insight, Reform, and Accountability Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "OIRA Insight, Reform, and Accountability Act",
+           "question": "On Passage",
+           "date": "2017-03-01",
+           "time": "18:18:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "119",
+           "bill": {
+             "number": "H R 1009",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1009.json",
+             "title": "OIRA Insight, Reform, and Accountability Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "OIRA Insight, Reform, and Accountability Act",
+           "question": "On Motion to Recommit with Instructions",
+           "date": "2017-03-01",
+           "time": "18:11:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "118",
+           "bill": {
+             "number": "H R 1009",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1009.json",
+             "title": "OIRA Insight, Reform, and Accountability Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "OIRA Insight, Reform, and Accountability Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-01",
+           "time": "17:53:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "117",
+           "bill": {
+             "number": "H R 1009",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr1009.json",
+             "title": "OIRA Insight, Reform, and Accountability Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "OIRA Insight, Reform, and Accountability Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-01",
+           "time": "17:48:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "116",
+           "bill": {
+             "number": "H RES 156",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres156.json",
+             "title": "Providing for consideration of the bill (H.R. 1004) to amend chapter 3 of title 5, United States Code, to require the publication of information relating to pending agency regulatory actions, and for other purposes, and providing for consideration of the bill (H.R. 1009) to amend title 44, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to review regulations, and for other purposes.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.R. 1004, the Regulatory Integrity Act of 2017; and H.R. 1009, the OIRA Insight, Reform, and Accountability Act",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-03-01",
+           "time": "15:20:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "115",
+           "bill": {
+             "number": "H RES 156",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres156.json",
+             "title": "Providing for consideration of the bill (H.R. 1004) to amend chapter 3 of title 5, United States Code, to require the publication of information relating to pending agency regulatory actions, and for other purposes, and providing for consideration of the bill (H.R. 1009) to amend title 44, United States Code, to require the Administrator of the Office of Information and Regulatory Affairs to review regulations, and for other purposes.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.R. 1004, the Regulatory Integrity Act of 2017; and H.R. 1009, the OIRA Insight, Reform, and Accountability Act",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-03-01",
+           "time": "15:13:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "114",
+           "bill": {
+             "number": "H R 998",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+             "title": "SCRUB Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "SCRUB Act",
+           "question": "On Passage",
+           "date": "2017-03-01",
+           "time": "15:07:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "113",
+           "bill": {
+             "number": "H R 998",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+             "title": "SCRUB Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "SCRUB Act",
+           "question": "On Motion to Recommit with Instructions",
+           "date": "2017-03-01",
+           "time": "15:00:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "112",
+           "bill": {
+             "number": "H R 998",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+             "title": "SCRUB Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "SCRUB Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-01",
+           "time": "14:36:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "111",
+           "bill": {
+             "number": "H R 998",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+             "title": "SCRUB Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "SCRUB Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-01",
+           "time": "14:32:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "110",
+           "bill": {
+             "number": "H R 998",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+             "title": "SCRUB Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "SCRUB Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-01",
+           "time": "14:27:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "109",
+           "bill": {
+             "number": "H R 998",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+             "title": "SCRUB Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "SCRUB Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-03-01",
+           "time": "14:19:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "108",
+           "bill": {
+             "number": "H R 998",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+             "title": "SCRUB Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "SCRUB Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-02-28",
+           "time": "16:22:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "107",
+           "bill": {
+             "number": "H R 998",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+             "title": "SCRUB Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "SCRUB Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-02-28",
+           "time": "16:18:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "106",
+           "bill": {
+             "number": "H R 998",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+             "title": "SCRUB Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "SCRUB Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-02-28",
+           "time": "16:14:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "105",
+           "bill": {
+             "number": "H R 998",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr998.json",
+             "title": "SCRUB Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "description": "SCRUB Act",
+           "question": "On Agreeing to the Amendment",
+           "date": "2017-02-28",
+           "time": "16:11:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "104",
+           "bill": {
+             "number": "H RES 150",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres150.json",
+             "title": "Providing for consideration of the bill (H.R. 998) to provide for the establishment of a process for the review of rules and sets of rules, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 83) disapproving the rule submitted by the Department of Labor relating to &quot;Clarification of Employer&#39;s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness&quot;.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of the bill (H.R. 998) SCRUB Act, and providing for consideration of (H.J.Res. 83) disapproving the rule submitted by the Department of Labor relating to “Clarification of ...",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-02-28",
+           "time": "14:18:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "103",
+           "bill": {
+             "number": "H RES 150",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres150.json",
+             "title": "Providing for consideration of the bill (H.R. 998) to provide for the establishment of a process for the review of rules and sets of rules, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 83) disapproving the rule submitted by the Department of Labor relating to &quot;Clarification of Employer&#39;s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness&quot;.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of the bill (H.R. 998) SCRUB Act, and providing for consideration of (H.J.Res. 83) disapproving the rule submitted by the Department of Labor relating to “Clarification of ...",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-02-28",
+           "time": "14:11:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "102",
+           "bill": {
+             "number": "H R 863",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr863.json",
+             "title": "To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes.",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+           },
+           "description": "To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes",
+           "question": "On Motion to Suspend the Rules and Pass",
+           "date": "2017-02-27",
+           "time": "19:34:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "101",
+           "bill": {
+           },
+           "description": "",
+           "question": "Table Appeal of the Ruling of the Chair",
+           "date": "2017-02-27",
+           "time": "19:27:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "100",
+           "bill": {
+             "number": "H R 699",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr699.json",
+             "title": "Mount Hood Cooper Spur Land Exchange Clarification Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+           },
+           "description": "Mount Hood Cooper Spur Land Exchange Clarification Act",
+           "question": "On Motion to Suspend the Rules and Pass",
+           "date": "2017-02-27",
+           "time": "18:52:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "99",
+           "bill": {
+             "number": "H J RES 43",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres43.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients.",
+             "latest_action": "Received in the Senate."
+           },
+           "description": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title ...",
+           "question": "On Passage",
+           "date": "2017-02-16",
+           "time": "15:27:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "98",
+           "bill": {
+             "number": "H J RES 69",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres69.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to &quot;Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska&quot;.",
+             "latest_action": "Received in the Senate."
+           },
+           "description": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to “Non-Subsistence Take of Wildlife, and ...",
+           "question": "On Passage",
+           "date": "2017-02-16",
+           "time": "15:16:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "97",
+           "bill": {
+             "number": "H J RES 42",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres42.json",
+             "title": "Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.",
+             "latest_action": "Received in the Senate."
+           },
+           "description": "Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants",
+           "question": "On Passage",
+           "date": "2017-02-15",
+           "time": "17:10:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "96",
+           "bill": {
+             "number": "H J RES 66",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres66.json",
+             "title": "Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees.",
+             "latest_action": "Received in the Senate."
+           },
+           "description": "Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees.",
+           "question": "On Passage",
+           "date": "2017-02-15",
+           "time": "17:02:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "95",
+           "bill": {
+             "number": "H J RES 67",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres67.json",
+             "title": "Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees.",
+             "latest_action": "Received in the Senate."
+           },
+           "description": "Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees.",
+           "question": "On Passage",
+           "date": "2017-02-15",
+           "time": "16:53:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "94",
+           "bill": {
+             "number": "H RES 123",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres123.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 43) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients; providing for consideration of the joint resolution (H.J. Res. 69) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to &quot;Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska&quot;; and providing for proceedings during the period from February 17, 2017, through February 24, 2017.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.J. Res. 43 and H.J. Res. 69, and providing for proceedings during the period from February 17, 2017, through February 24, 2017",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-02-15",
+           "time": "13:25:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "93",
+           "bill": {
+             "number": "H RES 123",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres123.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 43) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients; providing for consideration of the joint resolution (H.J. Res. 69) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to &quot;Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska&quot;; and providing for proceedings during the period from February 17, 2017, through February 24, 2017.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.J. Res. 43 and H.J. Res. 69, and providing for proceedings during the period from February 17, 2017, through February 24, 2017",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-02-15",
+           "time": "13:18:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "92",
+           "bill": {
+             "number": "H R 428",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr428.json",
+             "title": "Red River Gradient Boundary Survey Act",
+             "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources."
+           },
+           "description": "Red River Gradient Boundary Survey Act",
+           "question": "On Passage",
+           "date": "2017-02-14",
+           "time": "16:38:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "91",
+           "bill": {
+             "number": "H RES 116",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres116.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 66) disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees, and providing for consideration of the joint resolution (H.J. Res. 67) disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.J.Res. 66 and H.J.Res. 67",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-02-14",
+           "time": "15:01:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "90",
+           "bill": {
+             "number": "H RES 116",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres116.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 66) disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees, and providing for consideration of the joint resolution (H.J. Res. 67) disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.J.Res. 66 and H.J.Res. 67",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-02-14",
+           "time": "14:53:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "89",
+           "bill": {
+             "number": "H RES 99",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres99.json",
+             "title": "Providing for consideration of the bill (H.R. 428) to survey the gradient boundary along the Red River in the States of Oklahoma and Texas, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 42) disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.R. 428, the Red River Gradient Boundary Survey Act and H.J.Res. 42, disapproving the rule submitted by the Department of Labor relating to drug testing of ...",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-02-14",
+           "time": "14:46:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "88",
+           "bill": {
+             "number": "H RES 99",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres99.json",
+             "title": "Providing for consideration of the bill (H.R. 428) to survey the gradient boundary along the Red River in the States of Oklahoma and Texas, and for other purposes, and providing for consideration of the joint resolution (H.J. Res. 42) disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.R. 428, the Red River Gradient Boundary Survey Act and H.J.Res. 42, disapproving the rule submitted by the Department of Labor relating to drug testing of ...",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-02-14",
+           "time": "14:40:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "87",
+           "bill": {
+             "number": "H R 974",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr974.json",
+             "title": "BRAVE Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Veterans&#39; Affairs."
+           },
+           "description": "BRAVE Act",
+           "question": "On Motion to Suspend the Rules and Pass",
+           "date": "2017-02-13",
+           "time": "19:11:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "86",
+           "bill": {
+             "number": "H R 244",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr244.json",
+             "title": "Honoring Investments in Recruiting and Employing American Military Veterans Act of 2017",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+           },
+           "description": "HIRE Vets Act",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended",
+           "date": "2017-02-13",
+           "time": "18:54:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "85",
+           "bill": {
+             "number": "H J RES 58",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres58.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues.",
+             "latest_action": "Message on Senate action sent to the House."
+           },
+           "description": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues",
+           "question": "On Passage",
+           "date": "2017-02-07",
+           "time": "17:10:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "84",
+           "bill": {
+             "number": "H J RES 57",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres57.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965.",
+             "latest_action": "Message on Senate action sent to the House."
+           },
+           "description": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the ...",
+           "question": "On Passage",
+           "date": "2017-02-07",
+           "time": "17:03:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "83",
+           "bill": {
+             "number": "H J RES 44",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres44.json",
+             "title": "Disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976.",
+             "latest_action": "Message on Senate action sent to the House."
+           },
+           "description": "Disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans ...",
+           "question": "On Passage",
+           "date": "2017-02-07",
+           "time": "16:57:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "82",
+           "bill": {
+             "number": "H RES 91",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres91.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 44) disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976; providing for consideration of the joint resolution (H.J. Res. 57) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965; and providing for consideration of the joint resolution (H.J. Res. 58) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.J.Res 44, H.J.Res. 57, and H.J.Res 58.",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-02-07",
+           "time": "13:43:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "81",
+           "bill": {
+             "number": "H RES 91",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres91.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 44) disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976; providing for consideration of the joint resolution (H.J. Res. 57) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965; and providing for consideration of the joint resolution (H.J. Res. 58) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.J.Res 44, H.J.Res. 57, and H.J.Res 58.",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-02-07",
+           "time": "13:36:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "80",
+           "bill": {
+             "number": "H R 337",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr337.json",
+             "title": "Black Hills National Cemetery Boundary Expansion Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+           },
+           "description": "Black Hills National Cemetery Boundary Expansion Act",
+           "question": "On Motion to Suspend the Rules and Pass",
+           "date": "2017-02-06",
+           "time": "18:58:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "79",
+           "bill": {
+             "number": "H R 689",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr689.json",
+             "title": "Bolts Ditch Access and Use Act",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+           },
+           "description": "Bolts Ditch Access and Use Act",
+           "question": "On Motion to Suspend the Rules and Pass",
+           "date": "2017-02-06",
+           "time": "18:51:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "78",
+           "bill": {
+             "number": "H J RES 36",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres36.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to &quot;Waste Prevention, Production Subject to Royalties, and Resource Conservation&quot;.",
+             "latest_action": "Received in the Senate."
+           },
+           "description": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to “Waste Prevention, Production Subject to ...",
+           "question": "On Passage",
+           "date": "2017-02-03",
+           "time": "10:34:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "77",
+           "bill": {
+             "number": "H J RES 40",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres40.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007.",
+             "latest_action": "Became Public Law No: 115-8."
+           },
+           "description": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments ...",
+           "question": "On Passage",
+           "date": "2017-02-02",
+           "time": "16:07:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "76",
+           "bill": {
+             "number": "H J RES 37",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres37.json",
+             "title": "Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.",
+             "latest_action": "Message on Senate action sent to the House."
+           },
+           "description": "Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation",
+           "question": "On Passage",
+           "date": "2017-02-02",
+           "time": "15:56:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "75",
+           "bill": {
+             "number": "H RES 74",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres74.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 36) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to &quot;Waste Prevention, Production Subject to Royalties, and Resource Conservation&quot;, and providing for consideration of the joint resolution (H.J. Res. 37) disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.J. Res. 36, congressional disapproval under chapter 8 of title 5, U.S.C., of the final rule of the BLM relating to Waste Prevention; and providing for ...",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-02-02",
+           "time": "13:36:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "74",
+           "bill": {
+             "number": "H RES 74",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres74.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 36) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to &quot;Waste Prevention, Production Subject to Royalties, and Resource Conservation&quot;, and providing for consideration of the joint resolution (H.J. Res. 37) disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.J. Res. 36, congressional disapproval under chapter 8 of title 5, U.S.C., of the final rule of the BLM relating to Waste Prevention; and providing for ...",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-02-02",
+           "time": "13:28:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "73",
+           "bill": {
+             "number": "H J RES 38",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres38.json",
+             "title": "Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.",
+             "latest_action": "Became Public Law No: 115-5."
+           },
+           "description": "Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule",
+           "question": "On Passage",
+           "date": "2017-02-01",
+           "time": "16:50:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "72",
+           "bill": {
+             "number": "H J RES 41",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hjres41.json",
+             "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to &quot;Disclosure of Payments by Resource Extraction Issuers&quot;.",
+             "latest_action": "Became Public Law No: 115-4."
+           },
+           "description": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to “Disclosure of Payments by Resource ...",
+           "question": "On Passage",
+           "date": "2017-02-01",
+           "time": "16:43:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "71",
+           "bill": {
+             "number": "H RES 71",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres71.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 41) providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to &quot;Disclosure of Payments by Resource Extraction Issuers&quot;, and providing for consideration of the joint resolution (H.J. Res. 40) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of (H.J.Res. 41) disapproval of a rule submitted by the SEC relating to “Disclosure of Payments by Resource Extraction Issuers”, and consideration of (H.J.Res. 40) disapproval of ...",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-02-01",
+           "time": "13:52:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "70",
+           "bill": {
+             "number": "H RES 71",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres71.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 41) providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to &quot;Disclosure of Payments by Resource Extraction Issuers&quot;, and providing for consideration of the joint resolution (H.J. Res. 40) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of (H.J.Res. 41) disapproval of a rule submitted by the SEC relating to “Disclosure of Payments by Resource Extraction Issuers”, and consideration of (H.J.Res. 40) disapproval of ...",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-02-01",
+           "time": "13:46:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "69",
+           "bill": {
+             "number": "H RES 70",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres70.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 38) disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.J. Res. 38, disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-01-31",
+           "time": "17:25:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "68",
+           "bill": {
+             "number": "H RES 70",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres70.json",
+             "title": "Providing for consideration of the joint resolution (H.J. Res. 38) disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of H.J. Res. 38, disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-01-31",
+           "time": "17:18:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "67",
+           "bill": {
+             "number": "H R 538",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr538.json",
+             "title": "Ocmulgee Mounds National Historical Park Boundary Revision Act of 2017",
+             "latest_action": "Read twice and referred to the Committee on Energy and Natural Resources."
+           },
+           "description": "Ocmulgee Mounds National Historical Park Boundary Revision Act of 2017",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended",
+           "date": "2017-01-30",
+           "time": "19:00:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "66",
+           "bill": {
+             "number": "H R 374",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr374.json",
+             "title": "To remove the sunset provision of section 203 of Public Law 105-384, and for other purposes.",
+             "latest_action": "Received in the Senate."
+           },
+           "description": "To remove the sunset provision of section 203 of Public Law 105-384 and for other purposes",
+           "question": "On Motion to Suspend the Rules and Pass",
+           "date": "2017-01-30",
+           "time": "18:50:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "65",
+           "bill": {
+             "number": "H R 7",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr7.json",
+             "title": "No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2017",
+             "latest_action": "Referred to the Subcommittee on the Constitution and Civil Justice."
+           },
+           "description": "To prohibit taxpayer funded abortions",
+           "question": "On Passage",
+           "date": "2017-01-24",
+           "time": "16:48:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "64",
+           "bill": {
+             "number": "H R 7",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr7.json",
+             "title": "No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2017",
+             "latest_action": "Referred to the Subcommittee on the Constitution and Civil Justice."
+           },
+           "description": "To prohibit taxpayer funded abortions",
+           "question": "On Motion to Recommit with Instructions",
+           "date": "2017-01-24",
+           "time": "16:40:00",
+           "position": "No"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "63",
+           "bill": {
+             "number": "H RES 55",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres55.json",
+             "title": "Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions",
+           "question": "On Agreeing to the Resolution",
+           "date": "2017-01-24",
+           "time": "14:11:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "62",
+           "bill": {
+             "number": "H RES 55",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hres55.json",
+             "title": "Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions.",
+             "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "description": "Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions",
+           "question": "On Ordering the Previous Question",
+           "date": "2017-01-24",
+           "time": "14:04:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "61",
+           "bill": {
+             "number": "H R 582",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr582.json",
+             "title": "Kari&#39;s Law Act of 2017",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+           },
+           "description": "Kari&#39;s Law Act of 2017",
+           "question": "On Motion to Suspend the Rules and Pass",
+           "date": "2017-01-23",
+           "time": "19:04:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "60",
+           "bill": {
+             "number": "H R 423",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr423.json",
+             "title": "Anti-Spoofing Act of 2017",
+             "latest_action": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."
+           },
+           "description": "Anti-Spoofing Act of 2017",
+           "question": "On Motion to Suspend the Rules and Pass",
+           "date": "2017-01-23",
+           "time": "18:51:00",
+           "position": "Yes"
+         },
+                  {
+           "member_id": "M001193",
+           "chamber": "House",
+           "congress": "115",
+           "session": "1",
+           "roll_call": "59",
+           "bill": {
+             "number": "S 84",
+             "bill_uri": "https://api.propublica.org/congress/v1/115/bills/s84.json",
+             "title": "A bill to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.",
+             "latest_action": "Became Public Law No: 115-2."
+           },
+           "description": "To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of ...",
+           "question": "On Passage",
+           "date": "2017-01-13",
+           "time": "15:37:00",
+           "position": "Yes"
+         }
+       ]
+    }
+  ]
+}
