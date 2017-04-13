@@ -6,8 +6,8 @@ propublica_api_key = "IM_NOT_TELLING"
 
 #Part 1. Retrieve latest list of House and Senate members
 
-NJ_house_members = requests.get("https://api.propublica.org/congress/v1/members/house/NJ/current.json",headers={"X-API-KEY":"nMQfwKZ1yz3mcfOh1nYWp3l0BTrM8HgH8GM6kqml"})
-NJ_senate_members = requests.get("https://api.propublica.org/congress/v1/members/senate/NJ/current.json", headers={"X-API-KEY":"nMQfwKZ1yz3mcfOh1nYWp3l0BTrM8HgH8GM6kqml"})
+NJ_house_members = requests.get("https://api.propublica.org/congress/v1/members/house/NJ/current.json",headers={"X-API-KEY":propublica_api_key})
+NJ_senate_members = requests.get("https://api.propublica.org/congress/v1/members/senate/NJ/current.json", headers={"X-API-KEY":propublica_api_key})
 
 with open("data/NJ_house_members.json", "w+") as file:
     file.write(NJ_house_members.text)   
